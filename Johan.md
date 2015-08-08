@@ -7,7 +7,7 @@
 ### Ecperience Points
 Current | Total
 --------|------
-    265 | 265
+     65 | 265
 
 ### Personal Details
 - Age: 20
@@ -27,7 +27,7 @@ Current | Total
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  41 |  29 |  31 |  31 |  26 |  33 |  29 |  37 |
 Advance  |     |     |     |     |  +5 | +10 | +15 |  +5 |
-Current  |  41 |  29 |  31 |  31 |  26 |  33 |  29 |  37 |
+Current  |  41 |  29 |  31 |  31 |  26 |  33 |  39 |  37 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
