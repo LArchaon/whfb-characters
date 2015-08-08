@@ -1,8 +1,8 @@
 ### Character
-Name: Johan Nieden
-Race: Human
-Current Career: Apprentice Wizard
-Previous Career:
+- Name: Johan Nieden
+- Race: Human
+- Current Career: Apprentice Wizard
+- Previous Career:
 
 ### Personal Details
 - Age: 20
