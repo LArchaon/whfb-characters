@@ -84,12 +84,12 @@ Speak arc. language (daem.)| Int | Taken
 
 
 ### Mutations
-    Mutations                Description
+    Mutations              | Description
 ---------------------------|--------------
 Eyestalks                  | ( +1d10 agility, Fear 1 )
 
 ### Insanities
-   Insanity                  Description
+   Insanity                | Description
 ---------------------------|--------------
 Laughter of despair        | -10 challenging WP test when remorse/pity/e.t.c. fail : -10 agl, movemenent/2. success - 10 fel
 
