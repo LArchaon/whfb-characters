@@ -67,6 +67,7 @@ Gossip                     | Fel | Taken
 Outdoor survival           | Int | Taken
 Perception                 | Int | Taken
 Search                     | Int | Taken
+Scale sheer surface        | Str | Taken
 
 
 ### Skills
@@ -74,7 +75,6 @@ Search                     | Int | Taken
 ---------------------------|-----|---------
 Read/Write                 | Int | Taken
 Pick lock                  | Ag  | Taken
-Scale sheer surface        | Str | Taken
 Sp. language (classical)   | Int | Taken
 Sp. language (Reik.)       | Int | Taken
 Secret signs (thief)       | Int | Taken
@@ -86,7 +86,7 @@ Speak arc. language (daem.)| Int | Taken
 ### Mutations
     Mutations              | Description
 ---------------------------|--------------
-Eyestalks                  | ( +1d10 agility, Fear 1 )
+Eyestalks                  | ( +1d10 agility for initiative, Fear 1 )
 
 ### Insanities
    Insanity                | Description
