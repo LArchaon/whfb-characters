@@ -9,17 +9,17 @@ Current | Total
 --------|------
  90     | 1090
 
-usage log:
-100 - int
-100 - int
-100 - ag
-100 - ag
-100 - speak arc. language (daem.)
-100 - petty magic (chaos)
-100 - wp +5
-100 - savvy
-100 - wp
-100 - wp
+### xp usage log
+- 100 - int
+- 100 - int
+- 100 - ag
+- 100 - ag
+- 100 - speak arc. language (daem.)
+- 100 - petty magic (chaos)
+- 100 - wp +5
+- 100 - savvy
+- 100 - wp
+- 100 - wp
 
 ### Personal Details
 - Age: 17
