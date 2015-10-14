@@ -9,14 +9,14 @@ Current | Total
 --------|------
  195    | 895
 
-usage log:
-100 - Agi
-100 - Agi
-100 - Agi
-100 - WS
-100 - Scale Sheer Surface
-100 - Disguise
-100 - Read/Write
+### xp usage log
+- 100 - Agi
+- 100 - Agi
+- 100 - Agi
+- 100 - WS
+- 100 - Scale Sheer Surface
+- 100 - Disguise
+- 100 - Read/Write
 
 ### Personal Details
 - Age: 25
