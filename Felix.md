@@ -37,8 +37,8 @@ usage log:
 #### Main
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  27 |  25 |  27 |  28 |  36 |  43 |  31 |  25 |
-Advance  |     |     |     |     |10/10|10/10|15/15|  +5 |
+Starting |  27 |  25 |  27 |  28 |  36 |  38 |  31 |  25 |
+Advance  |     |     |     |     |10/10|10/10|15/15| 0/5 |
 Current  |  27 |  25 |  27 |  28 |  46 |  53 |  46 |  25 |
 
 #### Secondary
@@ -54,7 +54,7 @@ Current  |  1  |  10 |  2  |  2  |  4  |  1  |  0  |  3  |
 Savvy               | +5% Int
 Petty Magic (Chaos) |   
 Night vision        |   
-Luck                |   
+Luck                | +1 FP / day
 Sixth sence         |   
 Tunnel rat          |   
 
@@ -122,3 +122,13 @@ alchemy book (warpstone)   |     |
 gold: 5
 silver: 0
 brass: 0
+
+### Skills/talents left in maledictor
+   Name
+-----------------------------------| Description
+Academic knowledge (Daemonology)   | 
+Academic knowledge (Magic)         |
+Magical sense                      | determine, if enchanted with magic. Check winds of magic power
+Aethyric Attunement or Fast Hands  | AA - +10wp on channeling/magical sense tests. Fast hands - +20WS on touch spells
++5 fel                             |
++2 wounds                          |
