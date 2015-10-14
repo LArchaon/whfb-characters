@@ -8,10 +8,10 @@ Current | Total
 --------|------
  25     | 325
 
-usage log:
-100 - int
-100 - int
-100 - fel
+### xp usage log
+- 100 - int
+- 100 - int
+- 100 - fel
 
 ### Personal Details
 - Age: 29
