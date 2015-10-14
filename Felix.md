@@ -124,7 +124,7 @@ silver: 0
 brass: 0
 
 ### Skills/talents left in maledictor
-   Name                              Description
+    Name                           | Description
 -----------------------------------|----------------------------------------------------------------------------------
 Academic knowledge (Daemonology)   | 
 Academic knowledge (Magic)         |
