@@ -90,6 +90,6 @@ leather jack |     | Head, arms, body | 1  |
 ---------------------------|-----|---------
 
 ### Money
-gold: 14
+gold: 25
 silver: 0
 brass: 0

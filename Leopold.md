@@ -120,6 +120,6 @@ Sack                       |     |
 Fish Scales                |     | 15g
 
 ### Money
-gold: 35
+gold: 61
 silver: 80
 brass: 0

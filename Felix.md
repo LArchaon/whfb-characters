@@ -119,7 +119,7 @@ grimoire                   |     |
 alchemy book (warpstone)   |     |
 
 ### Money
-gold: 5
+gold: 6
 silver: 0
 brass: 0
 
