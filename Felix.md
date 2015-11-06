@@ -117,6 +117,7 @@ writing kit and papers     |     |
 warpstone                  |     |
 grimoire                   |     |
 alchemy book (warpstone)   |     |
+gnome book of runes        |     |
 
 ### Money
 gold: 6
