@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-390     | 1190
+ 90     | 1490
 
 ### xp usage log
 - 100 - int
@@ -20,6 +20,10 @@ Current | Total
 - 100 - savvy
 - 100 - wp
 - 100 - wp
+- 100 - fast hands
+- 100 - +1wound
+- 100 - +1wound
+- 100 - academic knowledge (daemonology)
 
 ### Personal Details
 - Age: 17
@@ -45,8 +49,8 @@ Current  |  27 |  25 |  27 |  28 |  46 |  53 |  46 |  25 |
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  10 |  2  |  2  |  4  |  1  |  0  |  3  |
-Advance  |     |  0/2|     |     |     |  +1 |     |     |
-Current  |  1  |  10 |  2  |  2  |  4  |  1  |  0  |  3  |
+Advance  |     |  2/2|     |     |     |  +1 |     |     |
+Current  |  1  |  12 |  2  |  2  |  4  |  1  |  0  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -57,6 +61,7 @@ Night vision        |
 Luck                | +1 FP / day
 Sixth sence         |   
 Tunnel rat          |   
+Fast hands          | +20 WS for touch spells  
 
 ### Skills (basic)
     Skill                  | Type| Proficiency
@@ -128,9 +133,6 @@ brass: 0
 ### Skills/talents left in maledictor
     Name                           | Description
 -----------------------------------|----------------------------------------------------------------------------------
-Academic knowledge (Daemonology)   | 
 Academic knowledge (Magic)         |
 Magical sense                      | determine, if enchanted with magic. Check winds of magic power
-Aethyric Attunement or Fast Hands  | AA - +10wp on channeling/magical sense tests. Fast hands - +20WS on touch spells
 +5 fel                             |
-+2 wounds                          |
