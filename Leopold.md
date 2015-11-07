@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
- 195    | 895
+ 295    | 1095
 
 ### xp usage log
 - 100 - Agi
@@ -17,6 +17,7 @@ Current | Total
 - 100 - Scale Sheer Surface
 - 100 - Disguise
 - 100 - Read/Write
+- 100 - BS        
 
 ### Personal Details
 - Age: 25

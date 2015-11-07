@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
- 90     | 1090
+390     | 1190
 
 ### xp usage log
 - 100 - int
@@ -87,6 +87,7 @@ Speak arc. language (daem.)| Int | Taken
     Mutations              | Description
 ---------------------------|--------------
 Eyestalks                  | ( +1d10 agility for initiative, Fear 1 )
+Mutations                  | +1 tougness char. Fear 3
 
 ### Insanities
    Insanity                | Description
@@ -120,7 +121,7 @@ alchemy book (warpstone)   |     |
 gnome book of runes        |     |
 
 ### Money
-gold: 6
+gold: 56
 silver: 0
 brass: 0
 
