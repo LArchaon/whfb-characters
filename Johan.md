@@ -7,7 +7,7 @@
 ### Ecperience Points
 Current | Total
 --------|------
-     65 | 265
+    265 | 465
 
 ### Personal Details
 - Age: 20
