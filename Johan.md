@@ -64,7 +64,7 @@ Speak Language (Magical)   | Int | Taken
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
 -------- |-----|-------|--------|-------|--------|----------
-   Sword |  50 |       |   SB   |       |        |  
+   Sword |  50 |       |   SB   |       |        | 2 
   Dagger |     |       |  SB-3  |       |        |  
   
 ### Armour
