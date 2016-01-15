@@ -66,6 +66,7 @@ Speak Language (Magical)   | Int | Taken
 -------- |-----|-------|--------|-------|--------|----------
    Sword |  50 |       |   SB   |       |        | 2 
   Dagger |     |       |  SB-3  |       |        |  
+Pistol   | 25  |  GUN  |   4    | 8/16  |2 full  | Impact, unreliable
   
 ### Armour
    Type  | Enc | Location Covered | AP |
@@ -80,3 +81,4 @@ Common Clothes             |     |
 Printed Book               |     | 
 Cloak                      |     | 
 Money                      |     | 13gc
+Gunpowder x 5              |     |      
