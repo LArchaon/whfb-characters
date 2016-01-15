@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
- 295    | 1095
+ 645    | 1445
 
 ### xp usage log
 - 100 - Agi
@@ -84,7 +84,7 @@ Sleight of Hand            | Wp  | Taken
 ### Mutations
     Mutations              | Description
 ---------------------------|--------------
-Extra Mouth                | Stitches mouse on right cheek
+Uncanny Resemblance        | facial features transform to resemble an important person
 Cloven Hooves              | Legs -> Hooves
 Polyps                     | 1 polyp on stomach
 
@@ -92,6 +92,7 @@ Polyps                     | 1 polyp on stomach
 ### Insanities
     Insanity               | Description
 ---------------------------|--------------
+Considers himself emperor  |
 
 
 ### Weapons
@@ -103,6 +104,7 @@ Shield   |  50 |  ORD  | SB-2   |       |        |  +10% parry/resist arrow
 Sword(G) |     |  ORD  |   SB   |       |        |
 Crossbow |     |  ORD  |    4   |       |        |
 Bolts    |     |       |        |       |        |
+Pistol   | 25  |  GUN  |   4    | 8/16  |2 full  | Impact, unreliable
 
   
 ### Armour
@@ -111,6 +113,7 @@ Bolts    |     |       |        |       |        |
 Leather Jack |     |      Body        | 1  |
 Leather Cap  |     |      Head        | 1  |
 Full Plate   |     |      All         | 2  |
+Mail shirt   |     |      Body        | 2  |
 
 ### Trappings
     Name                   | Enc | Description
@@ -119,8 +122,10 @@ Lockpicks                  |     |
 10 yards of rope           |     |
 Sack                       |     |
 Fish Scales                |     | 15g
+Gunpowder x 5              |     |
+ 
 
 ### Money
-gold: 61
-silver: 80
+gold: 120
+silver: 70
 brass: 0

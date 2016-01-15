@@ -6,7 +6,7 @@
 ### Experience Points
 Current | Total
 --------|------
- 325    | 
+ 525    | 
 
 usage log:
 
@@ -67,6 +67,7 @@ Common knowledge           | Int | Taken
 ### Mutations
     Mutations              | Description
 ---------------------------|--------------
+Regeneration		   | +1 hp / round after toghness check
 
 ### Insanities
    Insanity                | Description
@@ -79,17 +80,20 @@ Dagger   |     |       |        |       |        |
 Sword    |     |       |        |       |        |
 Crossbow |     |       |        |       |        |
 Shield   |     |       |        |       |        |
+Pistol   | 25  |  GUN  |   4    | 8/16  |2 full  | Impact, unreliable
   
 ### Armour
    Type      | Enc | Location Covered | AP |
 -------------|-----|------------------|----|
 leather jack |     | Head, arms, body | 1  |
+mail shirt   |     | Body             | 2  |
 
 ### Trappings
     Name                   | Enc | Description
 ---------------------------|-----|---------
+Gunpowder x 10	           |     |
 
 ### Money
-gold: 25
+gold: 44
 silver: 0
 brass: 0
