@@ -4,7 +4,7 @@
 - Current Career: Apprentice Wizard
 - Previous Career:
 
-### Ecperience Points
+### Experience Points
 Current | Total
 --------|------
     265 | 465
