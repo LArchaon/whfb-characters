@@ -79,4 +79,4 @@ Backpack                   |     |
 Common Clothes             |     | 
 Printed Book               |     | 
 Cloak                      |     | 
-Money                      |     | 15gc
+Money                      |     | 13gc
