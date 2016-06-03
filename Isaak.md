@@ -39,8 +39,8 @@ Current  |  27 |  36 |  31 |  32 |  29 |  41 |  35 |  27 |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  12 |  3  |  3  |  4  |  0  |  0  |  3  |
 Career   |     |  +2 |     |     |     |     |     |     |
-Taken    |     |     |     |     |     |     |     |     |
-Current  |  1  |  12 |  3  |  3  |  4  |  0  |  0  |  3  |
+Taken    |     |     |     |     |     |     |  3  |     |
+Current  |  1  |  12 |  3  |  3  |  4  |  0  |  3  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -67,7 +67,6 @@ Secret Language (Guild)      | Int | Taken
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
 -------- |-----|-------|--------|-------|--------|----------
-  Dagger |     |       |  SB-3  |       |        |  
    Sword |  50 |       |   SB   |       |        | 
   
 ### Armour
