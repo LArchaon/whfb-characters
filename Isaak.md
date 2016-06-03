@@ -8,6 +8,9 @@
 Current | Total
 --------|------
     0   | 100
+    
+### Usage Log
+- 100 - int
 
 ### Personal Details
 - Age: 36
@@ -79,7 +82,6 @@ Backpack                   |     |
 Common Clothes             |     | 
 Illuminated Book           |     | 
 Cloak                      |     | 
-Money                      |     | 13gc
 Matches x 5                |     | 
 Writing Kit                |     | 
 Wax                        |     |  
