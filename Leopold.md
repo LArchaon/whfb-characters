@@ -1,13 +1,13 @@
 ### Character
 - Name: Leopold
 - Race: Mutant
-- Current Career: Thief
-- Previous Career:
+- Current Career: Charlatan
+- Previous Career: Thief
 
 ### Experience Points
 Current | Total
 --------|------
- 645    | 1745
+ 345    | 1745
 
 ### xp usage log
 - 100 - Agi
@@ -18,6 +18,13 @@ Current | Total
 - 100 - Disguise
 - 100 - Read/Write
 - 100 - BS        
+- 100 - Int        
+- 100 - Fel       
+- 100 - Fel        
+- 100 - Wounds        
+- 100 - Wounds        
+- 100 - Advancement:Charlatan        
+
 
 ### Personal Details
 - Age: 25
@@ -36,15 +43,15 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  31 |  24 |  39 |  23 |  35 |  37 |  37 |  32 |
-Advance  | 5/5 |  0/5|     |     |15/15| 0/5 |     | 0/10|
+Advance  | 5/10| 0/10|  0/5| 0/10|15/15| 5/15| 0/15|10/25|
 Current  |  36 |  24 |  39 |  23 |  50 |  37 |  37 |  32 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  13 |  3  |  2  |  4  |  0  |  0  |  3  |
-Advance  |     |  +2 |     |     |     |  0  |     |     |
-Current  |  1  |  13 |  3  |  2  |  4  |  0  |  0  |  2  |
+Advance  |     | 2/4 |     |     |     |  0  |     |     |
+Current  |  1  |  15 |  3  |  2  |  4  |  0  |  0  |  2  |
   
 ### Talents
     Talent          |    Description
@@ -105,6 +112,7 @@ Sword(G) |     |  ORD  |   SB   |       |        |
 Crossbow |     |  ORD  |    4   |       |        |
 Bolts    |     |       |        |       |        |
 Pistol   | 25  |  GUN  |   4    | 8/16  |2 full  | Impact, unreliable
+Pistol   | 25  |  GUN  |   4    | 8/16  |2 full  | Impact, unreliable
 
   
 ### Armour
@@ -122,7 +130,9 @@ Lockpicks                  |     |
 10 yards of rope           |     |
 Sack                       |     |
 Fish Scales                |     | 15g
-Gunpowder x 5              |     |
+Gunpowder x 10             |     |
+Common clothes x 1         |     |
+Best clothes x 1           |     |
  
 
 ### Money
