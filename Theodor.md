@@ -64,16 +64,16 @@ Perception                   | Int | Taken
 Search                       | Int | Taken
 
 ### Advanced Skills
-    Skill	             | Type| 
------------------------------------------------------
-Academic knowledge (Magic)   | Int | 
-Channeling                   | WP  |
-Magic sense                  | WP  |
-Read/write                   | Int |
-Speak arcane                 | Int |
-Speak classic                | Int |
-Common knowledge             | Int |
-Speak reikspiel              | Int |
+    Skill	             | Type 
+-----------------------------|------------------------
+Academic knowledge (Magic)   | Int   
+Channeling                   | WP   
+Magic sense                  | WP   
+Read/write                   | Int  
+Speak arcane                 | Int  
+Speak classic                | Int  
+Common knowledge             | Int  
+Speak reikspiel              | Int  
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
