@@ -15,6 +15,7 @@ Current | Total
 - 100 - int
 - 100 - will
 - 100 - will
+- added gold for writing mail
 
 ### Personal Details
 - **Age**: 36
@@ -89,3 +90,5 @@ Matches x 5                |     |
 Writing Kit                |     | 
 Wax                        |     |  
 Candles x 2                |     |  
+4x Silver                  |     |  
+2x Gold                    |     |  
