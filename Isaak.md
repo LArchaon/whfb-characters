@@ -8,7 +8,7 @@
 ### Experience Points
 Current | Total
 --------|------
-     50 | 450
+    400 | 800
     
 ### Usage Log
 - 100 - int
@@ -44,8 +44,8 @@ Current | Total
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
 **Starting** |  1  |  12 |  3  |  3  |  4  |  0  |  0  |  3  |
 **Career**   |     |  +2 |     |     |     |     |     |     |
-**Taken**    |     |     |     |     |     |     |  3  |     |
-**Current**  |  1  |  12 |  3  |  3  |  4  |  0  |  3  |  3  |
+**Taken**    |     |     |     |     |     |     |  4  |     |
+**Current**  |  1  |  12 |  3  |  3  |  4  |  0  |  4  |  3  |
   
 ### Talents
      Talent         |    Description
