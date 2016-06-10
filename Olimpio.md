@@ -56,7 +56,7 @@ Warrior bourne      | +5% WS
 Lightning reflexes  | +5% Agility
 Swashbuckler        | Jump/leap as halfaction. Distance of leaps +1yard
 Strike mighty blow  | +1 Bonus damage on melee attacks
-Quick draw          | Weapon draw - 1/2 turn
+Quick draw          | Ready action as free action once per round
 Spec.weapon(Fencing)|
 
 
@@ -73,7 +73,7 @@ Speak language (Estalian)    | Int | Taken
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
 -------- |-----|-------|--------|-------|--------|----------
-   Rapier|  50 |       |   SB   |       |        | 
+   Rapier|  50 |       |   SB-1 |       |        | 
   
 ### Armour
    Type   | Enc | Location Covered | AP |
