@@ -72,8 +72,8 @@ Speak language (Estalian)    | Int | Taken
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
--------- |-----|-------|--------|-------|--------|----------
-   Rapier|  50 |       |   SB-1 |       |        | 
+-------- |-----|-------|--------|-------|--------|---------------------------------
+   Rapier|  50 |       |   SB-1 |       |        | fast (enemy -10% to parry/dodge)
   
 ### Armour
    Type   | Enc | Location Covered | AP |
