@@ -7,10 +7,13 @@
 ### Experience Points
 Current | Total
 --------|------
-    350 | 450
+     50 | 450
     
 ### Usage Log
 - 100 - int
+- 100 - int
+- 100 - will
+- 100 - will
 
 ### Personal Details
 - Age: 36
@@ -31,8 +34,8 @@ Current | Total
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  27 |  36 |  31 |  32 |  29 |  36 |  35 |  27 |
 Career   |     |     |     |     | +10 | +10 | +10 |  +5 |
-Taken    |     |     |     |     |     |  +5 |     |     |
-Current  |  27 |  36 |  31 |  32 |  29 |  41 |  35 |  27 |
+Taken    |     |     |     |     |     | +10 | +10 |     |
+Current  |  27 |  36 |  31 |  32 |  29 |  46 |  45 |  27 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
