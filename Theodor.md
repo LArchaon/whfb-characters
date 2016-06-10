@@ -7,13 +7,17 @@
 ### Experience Points
 Current | Total
 --------|------
-    0   | 400
+    0   | 700
     
 ### Usage Log
 - 100 - +1 Magic
 - 100 - WP
 - 100 - WP
 - 100 - WP
+- 100 - Wound
+- 100 - Wound
+- 100 - Int
+
 
 ### Personal Details
 - Age: 16
@@ -33,7 +37,7 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  37 |  32 |  32 |  30 |  37 |  37 |  35 |  25 |
-Career   |     |     |     |     | 0/5 | 0/10|15/15| 0/5 |
+Career   |     |     |     |     | 0/5 | 5/10|15/15| 0/5 |
 Taken    |     |     |     |     |     |     |     |     |
 Current  |  37 |  32 |  32 |  30 |  37 |  42 |  50 |  30 |
 
@@ -41,9 +45,9 @@ Current  |  37 |  32 |  32 |  30 |  37 |  42 |  50 |  30 |
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  3  |  4  |  0  |  0  |  3  |
-Career   |     | 0/2 |     |     |     | 1/1 |     |     |
-Taken    |     |     |     |     |     |     |  2  |     |
-Current  |  1  |  12 |  3  |  3  |  4  |  0  |  2  |  3  |
+Career   |     | 2/2 |     |     |     | 1/1 |     |     |
+Taken    |     |     |     |     |     |     |  4  |     |
+Current  |  1  |  14 |  3  |  3  |  4  |  0  |  4  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -62,6 +66,11 @@ Hardy               | +1 wound
 Gossip                       | Int | Taken
 Perception                   | Int | Taken
 Search                       | Int | Taken
+
+### Mutations
+    Mutations              | Description
+---------------------------|--------------
+Thick fur		   | +1 AP except face
 
 ### Advanced Skills
     Skill	             | Type 
@@ -92,3 +101,9 @@ Mail shirt|     | Body             | 2  |
 Quarter staff              |     | 
 Printed book               |     | 
 Backpack                   |     | 
+Roadwarden sign	     	   |     |
+Healing potion             |     |
+Death wish of Isaak        |     |   
+
+### Money
+Gold: 9
