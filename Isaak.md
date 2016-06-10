@@ -72,6 +72,7 @@ Secret Language (Guild)      | Int | Taken
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
 -------- |-----|-------|--------|-------|--------|----------
+4x Knife |     |       |  SB-3  |       |        | 
    Sword |  50 |       |   SB   |       |        | 
   
 ### Armour
@@ -89,6 +90,7 @@ Cloak                      |     |
 Matches x 5                |     | 
 Writing Kit                |     | 
 Wax                        |     |  
+Road Atlas to Talabecland  |     |  
 Candles x 2                |     |  
 4x Silver                  |     |  
 2x Gold                    |     |  
