@@ -47,26 +47,26 @@ Current | Total
 **Current**  |  1  |  12 |  3  |  3  |  4  |  0  |  3  |  3  |
   
 ### Talents
-         Talent         |    Description
-------------------------|---------------
-**Night Vision**        | 
-**Linguist**            | You gain a +10% bonus on all Read/Write and Speak Language Skill Tests
-**Super Numerate**      | You gain a +10% bonus on Gamble and Navigation Skill Tests, and a +20% bonus on Perception Skill Tests that involve estimation.
+     Talent         |    Description
+--------------------|---------------
+Night Vision        | 
+Linguist            | You gain a +10% bonus on all Read/Write and Speak Language Skill Tests
+Super Numerate      | You gain a +10% bonus on Gamble and Navigation Skill Tests, and a +20% bonus on Perception Skill Tests that involve estimation.
 
 ### Skills
-Skill                            | Type| Proficiency
----------------------------------|-----|---------
-**Gossip**                       | Fel | Taken
-**Perception**                   | Int | Taken
-**Academic Knowledge (History)** | Int | Taken
-**Common Knowledge (Empire)**    | Int | +10%
-**Read/Write**                   | Int | +10%
-**Speak Language (Reikspiel)**   | Int | +10%
-**Speak Language (Classical)**   | Int | +10%
-**Speak Language (Breton)**      | Int | +10%
-**Speak Language (Tilean)**      | Int | +10%
-**Trade (Calligraphy)**          | Int | Taken
-**Secret Language (Guild)**      | Int | Taken
+Skill                        | Type| Proficiency
+-----------------------------|-----|---------
+Gossip                       | Fel | Taken
+Perception                   | Int | Taken
+Academic Knowledge (History) | Int | Taken
+Common Knowledge (Empire)    | Int | +10%
+Read/Write                   | Int | +10%
+Speak Language (Reikspiel)   | Int | +10%
+Speak Language (Classical)   | Int | +10%
+Speak Language (Breton)      | Int | +10%
+Speak Language (Tilean)      | Int | +10%
+Trade (Calligraphy)          | Int | Taken
+Secret Language (Guild)      | Int | Taken
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
