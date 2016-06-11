@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  445   | 2145
+   45   | 2145
 
 ### xp usage log
 - 100 - Agi
