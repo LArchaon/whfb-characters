@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  45    | 1745
+  445   | 2145
 
 ### xp usage log
 - 100 - Agi
@@ -119,11 +119,15 @@ Pistol   |  25 |  GUN  |    4   | 8/16  |2 full  | Impact, unreliable
 
 
 ### Armour
-   Type      | Enc | Location Covered | AP |
--------------|-----|------------------|----|
-Full Leather |     |      All         | 1  |
-Full Plate   |     |      All         | 2  |
-Mail shirt   |     |      Body        | 2  |
+   Type                 | Enc | Location Covered | AP | Special
+------------------------|-----|------------------|----|----------------
+Chaos Full Leather      |     |      All         | 1  | Chaos armour
+Chaos Full Plate        |     |      All         | 2  | Chaos armour
+Chaos Mail shirt        |     |      Body        | 2  | Chaor armour
+
+Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, adapts to rewards/gifts/mutations
+
+
 
 ### Trappings
     Name                   | Enc | Description
