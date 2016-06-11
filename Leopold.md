@@ -27,6 +27,10 @@ Current | Total
 - 100 - WS
 - 100 - Fel
 - 100 - Fel
+- 100 - Tough
+- 100 - Fel
+- 100 - Str
+- 100 - Will
 
 
 ### Personal Details
@@ -45,9 +49,9 @@ Current | Total
 #### Main
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  31 |  24 |  39 |  23 |  35 |  37 |  37 |  32 |
-Advance  |10/10| 5/10|  0/5| 0/10|15/15| 5/15| 0/15|20/25|
-Current  |  41 |  29 |  39 |  23 |  50 |  42 |  37 |  52 |
+Starting |  31 |  24 |  39 |  28 |  35 |  37 |  37 |  32 |
+Advance  |10/10| 5/10|  5/5| 5/10|15/15| 5/15| 5/15|25/25|
+Current  |  41 |  29 |  44 |  33 |  50 |  42 |  42 |  57 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -114,19 +118,16 @@ Shield   |  50 |  ORD  | SB-2   |       |        |  +10% parry/resist arrow
 Sword(G) |  50 |  ORD  |   SB   |       |        |
 Crossbow |     |  ORD  |    4   |       |        |
 Bolts    |     |       |        |       |        |
-Pistol   |  25 |  GUN  |    4   | 8/16  |2 full  | Impact, unreliable
-Pistol   |  25 |  GUN  |    4   | 8/16  |2 full  | Impact, unreliable
+Pistol   |  25 |  GUN  |    4   | 8/16  | 2 full | Impact, unreliable
+Pistol   |  25 |  GUN  |    4   | 8/16  | 2 full | Impact, unreliable
 
 
 ### Armour
    Type                 | Enc | Location Covered | AP | Special
 ------------------------|-----|------------------|----|----------------
-Chaos Full Leather      |     |      All         | 1  | Chaos armour
-Chaos Full Plate        |     |      All         | 2  | Chaos armour
-Chaos Mail shirt        |     |      Body        | 2  | Chaor armour
+Chaos Armour            |     |        All       |  5 | Chaos armour
 
 Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, adapts to rewards/gifts/mutations
-
 
 
 ### Trappings
@@ -141,6 +142,6 @@ Best clothes x 1           |     |
 
 
 ### Money
-gold: 120
+gold: 117
 silver: 70
 brass: 0
