@@ -1,6 +1,6 @@
 ### Character
 - Name: Theodor
-- Race: Human
+- Race: Mutant
 - Current Career: Apprentice Wizard
 - Previous Career:
 
