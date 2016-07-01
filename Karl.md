@@ -6,7 +6,7 @@
 ### Experience Points
 Current | Total
 --------|------
- 525    | 
+ 825    | 
 
 usage log:
 
@@ -35,7 +35,7 @@ Current  |  41 |  38 |  33 |  45 |  34 |  32 |     |  38 |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  3  |  4  |  0  |  0  |  3  |
 Advance  |     |  0/2|     |     |     |  0  |     |     |
-Current  |  1  |  11 |  3  |  4  |  4  |  0  |  1  |  2  |
+Current  |  1  |  11 |  3  |  4  |  4  |  0  |  2  |  2  |
   
 ### Talents
     Talent          |    Description
