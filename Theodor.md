@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   300  | 1000
+     0  | 1000
     
 ### Usage Log
 - 100 - +1 Magic
@@ -17,6 +17,9 @@ Current | Total
 - 100 - Wound
 - 100 - Wound
 - 100 - Int
+- 100 - Ag
+- 100 - Int
+- 100 - Fel
 
 
 ### Personal Details
@@ -37,17 +40,17 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  37 |  32 |  32 |  30 |  37 |  37 |  35 |  25 |
-Career   |     |     |     |     | 0/5 | 5/10|15/15| 0/5 |
+Career   |     |     |     |     | 5/5 |10/10|15/15| 5/5 |
 Taken    |     |     |     |     |     |     |     |     |
-Current  |  37 |  32 |  32 |  30 |  37 |  42 |  50 |  30 |
+Current  |  37 |  32 |  32 |  30 |  42 |  52 |  50 |  35 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  3  |  4  |  0  |  0  |  3  |
 Career   |     | 2/2 |     |     |     | 1/1 |     |     |
-Taken    |     |     |     |     |     |     |  4  |     |
-Current  |  1  |  14 |  3  |  3  |  4  |  0  |  4  |  3  |
+Taken    |     |     |     |     |     |     |  5  |     |
+Current  |  1  |  14 |  3  |  3  |  4  |  0  |  5  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -104,6 +107,9 @@ Backpack                   |     |
 Roadwarden sign	     	   |     |
 Healing potion             |     |
 Death wish of Isaak        |     |   
+Necromancer spellbook      |     |   
+Pistol                     |     |   
+Pistol shots               | 10  |   
 
 ### Money
 Gold: 9
