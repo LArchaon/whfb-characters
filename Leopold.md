@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  545   | 2645
+   45   | 2645
 
 ### xp usage log
 - 100 - Agi
@@ -31,6 +31,11 @@ Current | Total
 - 100 - Fel
 - 100 - Str
 - 100 - Will
+- 100 - BS
+- 100 - Int
+- 100 - Int
+- 100 - Will
+- 100 - Public Speaking
 
 
 ### Personal Details
@@ -50,8 +55,8 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  31 |  24 |  39 |  28 |  35 |  37 |  37 |  32 |
-Advance  |10/10| 5/10|  5/5| 5/10|15/15| 5/15| 5/15|25/25|
-Current  |  41 |  29 |  44 |  33 |  50 |  42 |  42 |  57 |
+Advance  |10/10|10/10| 5/5 | 5/10|15/15|15/15|10/15|25/25|
+Current  |  41 |  34 |  44 |  33 |  50 |  52 |  47 |  57 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -67,6 +72,7 @@ Acute Hearing       | +20% Listening Perception
 Suave               | +5% Fellowship
 Alley Cat           | +10% Urban Concealment
 Super Numerate      | +10% Gambling, Navigation, +20% Evaluate
+Public Speaking     | Charm targets = Fellowship
 --------------------|---------------
 Menacing            | +10% Intimidate, Torture
 
@@ -113,12 +119,10 @@ Considers himself emperor  |
    Name  | Enc | Group | Damage | Range | Reload | Qualities
 -------- |-----|-------|--------|-------|--------|----------
 Sword    |  50 |  ORD  |   SB   |       |        |
-Sword    |  50 |  ORD  |   SB   |       |        |  Good
 Shield   |  50 |  ORD  | SB-2   |       |        |  +10% parry/resist arrow
-Sword(G) |  50 |  ORD  |   SB   |       |        |
+Sword(G) |  50 |  ORD  |   SB   |       |        |  Good
 Crossbow |     |  ORD  |    4   |       |        |
 Bolts    |     |       |        |       |        |
-Pistol   |  25 |  GUN  |    4   | 8/16  | 2 full | Impact, unreliable
 Pistol   |  25 |  GUN  |    4   | 8/16  | 2 full | Impact, unreliable
 
 
@@ -136,12 +140,12 @@ Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, 
 Lockpicks                  |     |
 10 yards of rope           |     |
 Sack                       |     |
-Gunpowder x 15             |     |
+Gunpowder x 10             |     |
 Common clothes x 1         |     |
 Best clothes x 1           |     |
 
 
 ### Money
 gold: 117
-silver: 70
+silver: 56
 brass: 0
