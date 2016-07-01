@@ -54,14 +54,14 @@ Trapfinder          | +10% Perception/Pick lock
 
 ### Basic skills
     Skill                    | Type| Proficiency
-_________________________________________________
+_____________________________|_____|_____________
 Charm                        | Fel | 
 Concealment                  | Agl | 
 Disguise                     | Fel | 
 Evaluate       		     | Int |
 Perception                   | Int |
 Search                       | Int |
-Silent move (Ag)             | Agl | 					
+Silent move                  | Agl | 					
 
 ### Advanced skills
     Skill                    | Type| Proficiency
