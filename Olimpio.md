@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-    400 | 1000
+        | 1100
     
 ### Usage Log
 - 100 - +1 WP
@@ -16,6 +16,11 @@ Current | Total
 - 100 - +1 AG
 - 100 - +1 AG
 - 100 - +1 Attack
+- 100 - +1 STR
+- 100 - +1 Tougness
+- 100 - +1 Int
+- 100 - +1 Wound
+- 100 - +1 Wound
 
 
 
@@ -37,17 +42,17 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  33 |  33 |  31 |  31 |  35 |  28 |  31 |  31 |
-Career   |15/15|     | 0/5 | 0/5 |10/10| 0/5 |     |     |
+Career   |15/15|     | 5/5 | 5/5 |10/10| 5/5 |     |     |
 Taken    |     |     |     |     |     |     |     |     |
-Current  |  53 |  33 |  31 |  31 |  50 |  28 |  31 |  31 |
+Current  |  53 |  33 |  36 |  36 |  50 |  33 |  31 |  31 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  3  |  4  |  0  |  0  |  3  |
-Career   | 1/1 | 0/2 |     |     |     |     |     |     |
+Career   | 1/1 | 2/2 |     |     |     |     |     |     |
 Taken    |     |     |     |     |     |     |  4  |     |
-Current  |  2  |  11 |  3  |  3  |  4  |  0  |  4  |  3  |
+Current  |  2  |  13 |  3  |  3  |  4  |  0  |  4  |  3  |
   
 ### Talents
     Talent          |    Description
