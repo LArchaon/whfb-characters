@@ -49,10 +49,10 @@ Current  |  53 |  33 |  36 |  36 |  50 |  33 |  31 |  31 |
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  1  |  11 |  3  |  3  |  4  |  0  |  0  |  3  |
+Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
 Career   | 1/1 | 2/2 |     |     |     |     |     |     |
-Taken    |     |     |     |     |     |     |  4  |     |
-Current  |  2  |  13 |  3  |  3  |  4  |  0  |  4  |  3  |
+Taken    |     |     |     |     |     |     |     |     |
+Current  |  2  |  12 |  3  |  3  |  4  |  0  |  2  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -74,6 +74,13 @@ Common knowledge  (Estalia)  | Int | Taken
 Dodge blow                   | Ag  | Taken
 Read/write                   | Int | Taken
 Speak language (Estalian)    | Int | Taken
+
+### Mutations
+     Mutation               | Description
+----------------------------|--------------
+Piercing tongue             | 4 yards, SB damage, Ballistic
+Extra limb                  | +10 Agility/WS when using right hand
+
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
