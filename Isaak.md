@@ -1,14 +1,13 @@
 ### Character
 - **Name**: Isaak Haufmann
 - **Race**: Human
-- **Current Career**: Initiate
-- **Previous Career**: Scribe
-- **Career Exits**: Barber-Surgeon, Demagogue, Friar, Lay Priest, Priest, Scribe, Zealot
+- **Previous Career**: Initiate, Scribe
+- **Status**: DECEASED
 
 ### Experience Points
 Current | Total
 --------|------
-        | 800
+    DECEASED
     
 ### Usage Log
 - 100 - int
