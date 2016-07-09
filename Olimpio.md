@@ -1,13 +1,13 @@
 ### Character
 - Name: Olimpio
 - Race: Human
-- Current Career: Estalian Diestro
-- Previous Career:
+- Current Career: Duellist
+- Previous Career: Estalian Diestro
 
 ### Experience Points
 Current | Total
 --------|------
- 400    | 1500
+  0    | 1500
     
 ### Usage Log
 - 100 - +1 WP
@@ -21,6 +21,11 @@ Current | Total
 - 100 - +1 Int
 - 100 - +1 Wound
 - 100 - +1 Wound
+- 100 - Duellist class
+- 100 - Disarm
+- 100 - Intimidate
+- 100 - +1 BS
+
 
 
 
@@ -42,14 +47,14 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  33 |  33 |  31 |  31 |  35 |  28 |  31 |  31 |
-Career   |15/15|     | 5/5 | 5/5 |10/10| 5/5 |     |     |
+Career   |15/20| 5/20| 5/10| 5/20|10/20| 5/15| 0/15| 0/10|
 Current  |  53 |  33 |  36 |  36 |  50 |  33 |  31 |  31 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
-Career   | 1/1 | 2/2 |     |     |     |     |     |     |
+Career   | 1/1 | 2/4 |     |     |     |     |     |     |
 Current  |  2  |  12 |  3  |  3  |  4  |  0  |  2  |  3  |
   
 ### Talents
@@ -61,6 +66,7 @@ Swashbuckler        | Jump/leap as halfaction. Distance of leaps +1yard
 Strike mighty blow  | +1 Bonus damage on melee attacks
 Quick draw          | Ready action as free action once per round
 Spec.weapon(Fencing)|
+Disarm              |
 
 
 
@@ -72,6 +78,7 @@ Common knowledge  (Estalia)  | Int | Taken
 Dodge blow                   | Ag  | Taken
 Read/write                   | Int | Taken
 Speak language (Estalian)    | Int | Taken
+Intimadate                   | Str | Taken
 
 ### Mutations
      Mutation               | Description
