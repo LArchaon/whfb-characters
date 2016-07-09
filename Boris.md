@@ -30,10 +30,10 @@ Current | Total
 #### Main
              |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
-**Starting** |  35 |  38 |  28 |  33 |  32 |  34 |  35 |  29 |
+**Starting** |  40 |  38 |  33 |  38 |  37 |  39 |  35 |  29 |
 **Career**   |  +5 |     | +10 |  +5 |  +5 |     | +10 |  +5 |
 **Taken**    |     |     |     |     |     |     |     |     |
-**Current**  |  27 |  36 |  31 |  32 |  29 |  46 |  45 |  32 |
+**Current**  |  40 |  38 |  33 |  38 |  37 |  39 |  35 |  29 |
 
 #### Secondary
              |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -46,9 +46,11 @@ Current | Total
 ### Talents
      Talent         |    Description
 --------------------|---------------
-Very Strong         | 
-Lightning Reflexes  |
-Very Resilient      |
+Very Strong         | +5 Strength
+Lightning Reflexes  | +5 Agility
+Very Resilient      | +5 Thoughness
+Savvy               | +5 Intelligence
+Warrio Born         | +5 Weapon Skill
 
 ### Skills
 Skill                        | Type| Proficiency
