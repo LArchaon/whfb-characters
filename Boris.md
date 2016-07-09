@@ -8,7 +8,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   200  | 1000
+     0  | 1000
     
 ### Usage Log
 - start
@@ -18,6 +18,7 @@ Current | Total
 - agility
 - 2x wounds
 - taken Coolheaded from profession
+- spent +10 on Will-power
 
 ### Personal Details
 - **Age**: 28
@@ -38,8 +39,8 @@ Current | Total
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
 **Starting** |  40 |  38 |  33 |  38 |  37 |  39 |  40 |  29 |
 **Career**   |  +5 |     | +10 |  +5 |  +5 |     | +10 |  +5 |
-**Taken**    |  +5 |     | +10 |  +5 |  +5 |     |     |     |
-**Current**  |  45 |  38 |  43 |  43 |  42 |  39 |  40 |  29 |
+**Taken**    |  +5 |     | +10 |  +5 |  +5 |     | +10 |     |
+**Current**  |  45 |  38 |  43 |  43 |  42 |  39 |  50 |  29 |
 
 #### Secondary
              |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
