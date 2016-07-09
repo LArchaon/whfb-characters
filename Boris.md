@@ -30,7 +30,7 @@ Current | Total
 #### Main
              |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
-**Starting** |  27 |  36 |  31 |  32 |  29 |  36 |  35 |  27 |
+**Starting** |  35 |  38 |  28 |  33 |  32 |  34 |  35 |  29 |
 **Career**   |  +5 |     | +10 |  +5 |  +5 |     | +10 |  +5 |
 **Taken**    |     |     |     |     |     |     |     |     |
 **Current**  |  27 |  36 |  31 |  32 |  29 |  46 |  45 |  32 |
@@ -38,34 +38,28 @@ Current | Total
 #### Secondary
              |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
-**Starting** |  1  |  12 |  3  |  3  |  4  |  0  |  0  |  3  |
+**Starting** |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
 **Career**   |     |  +2 |     |     |     |     |     |     |
 **Taken**    |     |     |     |     |     |     |     |     |
-**Current**  |  1  |  12 |  3  |  3  |  4  |  0  |  6  |  3  |
+**Current**  |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
   
 ### Talents
      Talent         |    Description
 --------------------|---------------
-                    | 
+Very Strong         | 
+Lightning Reflexes  |
+Very Resilient      |
 
 ### Skills
 Skill                        | Type| Proficiency
 -----------------------------|-----|---------
 Animal Care                  | Int | Taken
 Animal Training              | Fel | Taken
-
-
-Gossip                       | Fel | Taken
+Charm Animal                 | Fel | Taken
+Consume Alcohol              |  T  | Taken
 Perception                   | Int | Taken
-Academic Knowledge (History) | Int | Taken
-Common Knowledge (Empire)    | Int | +10%
-Read/Write                   | Int | +10%
-Speak Language (Reikspiel)   | Int | +10%
-Speak Language (Classical)   | Int | +10%
-Speak Language (Breton)      | Int | +10%
-Speak Language (Tilean)      | Int | +10%
-Trade (Calligraphy)          | Int | Taken
-Secret Language (Guild)      | Int | Taken
+Speak Language (Kislevarin)  | Int | Taken
+Speak Language (Reikspiel)   | Int | Taken
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
@@ -74,21 +68,16 @@ Secret Language (Guild)      | Int | Taken
    Sword |  50 |       |   SB   |       |        | 
   
 ### Armour
-   Type  | Enc | Location Covered | AP |
----------|-----|------------------|----|
-         |     |                  |    |
+    Type       | Enc | Location Covered | AP |
+---------------|-----|------------------|----|
+Leather Jack   |     | Body, Hands      |  1 |
 
 ### Trappings
     Name                   | Enc | Description
 ---------------------------|-----|---------
 Backpack                   |     | 
 Common Clothes             |     | 
-Illuminated Book           |     | 
 Cloak                      |     | 
 Matches x 5                |     | 
-Writing Kit                |     | 
-Wax                        |     |  
-Road Atlas to Talabecland  |     |  
-Candles x 2                |     |  
 4x Silver                  |     |  
 2x Gold                    |     |  
