@@ -88,5 +88,4 @@ Backpack                   |     |
 Common Clothes             |     | 
 Cloak                      |     | 
 Matches x 5                |     | 
-4x Silver                  |     |  
 2x Gold                    |     |  
