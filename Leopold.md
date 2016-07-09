@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  500   | 2645
+   0    | 2645
 
 ### xp usage log
 - 100 - Agi
@@ -40,7 +40,7 @@ Current | Total
 - 100 - Wounds
 - 100 - Wounds
 - 100 - Fel
-- 100 - Demagogue
+- 100 - Advancement:Demagogue
 
 ### Personal Details
 - Age: 25
