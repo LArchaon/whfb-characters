@@ -1,8 +1,8 @@
 ### Character
 - Name: Leopold
 - Race: Mutant
-- Current Career: Charlatan
-- Previous Career: Thief
+- Current Career: Demagogue
+- Previous Career: Charlatan
 
 ### Experience Points
 Current | Total
@@ -36,7 +36,11 @@ Current | Total
 - 100 - Int
 - 100 - Will
 - 100 - Public Speaking
-
+- 100 - Tough
+- 100 - Wounds
+- 100 - Wounds
+- 100 - Fel
+- 100 - Demagogue
 
 ### Personal Details
 - Age: 25
@@ -55,15 +59,15 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  31 |  24 |  39 |  28 |  35 |  37 |  37 |  32 |
-Advance  |10/10|10/10| 5/5 | 5/10|15/15|15/15|10/15|25/25|
-Current  |  41 |  34 |  44 |  33 |  50 |  52 |  47 |  57 |
+Advance  |10/10|10/10| 5/5 |10/10|15/15|15/15|15/15|25/25|
+Current  |  41 |  34 |  44 |  38 |  50 |  52 |  52 |  57 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  13 |  3  |  2  |  4  |  0  |  0  |  3  |
-Advance  |     | 2/4 |     |     |     |  0  |     |     |
-Current  |  1  |  15 |  3  |  2  |  4  |  0  |  0  |  2  |
+Advance  |     | 4/4 |     |     |     |  0  |     |     |
+Current  |  1  |  17 |  3  |  2  |  4  |  0  |  0  |  2  |
 
 ### Talents
     Talent          |    Description
