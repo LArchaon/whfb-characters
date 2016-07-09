@@ -8,10 +8,16 @@
 ### Experience Points
 Current | Total
 --------|------
-   800  | 800
+     0  | 800
     
 ### Usage Log
 - start
+- WS
+- 2x Strength
+- toughness
+- agility
+- 2x wounds
+- taken Coolheaded from profession
 
 ### Personal Details
 - **Age**: 28
@@ -32,16 +38,16 @@ Current | Total
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
 **Starting** |  40 |  38 |  33 |  38 |  37 |  39 |  35 |  29 |
 **Career**   |  +5 |     | +10 |  +5 |  +5 |     | +10 |  +5 |
-**Taken**    |     |     |     |     |     |     |     |     |
-**Current**  |  40 |  38 |  33 |  38 |  37 |  39 |  35 |  29 |
+**Taken**    |  +5 |     | +10 |  +5 |  +5 |     |  +5 |     |
+**Current**  |  45 |  38 |  43 |  42 |  37 |  39 |  40 |  29 |
 
 #### Secondary
              |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
 **Starting** |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
 **Career**   |     |  +2 |     |     |     |     |     |     |
-**Taken**    |     |     |     |     |     |     |     |     |
-**Current**  |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
+**Taken**    |     |  +2 |     |     |     |     |     |     |
+**Current**  |  1  |  12 |  3  |  3  |  4  |  0  |  0  |  3  |
   
 ### Talents
      Talent         |    Description
@@ -50,7 +56,8 @@ Very Strong         | +5 Strength
 Lightning Reflexes  | +5 Agility
 Very Resilient      | +5 Thoughness
 Savvy               | +5 Intelligence
-Warrio Born         | +5 Weapon Skill
+Warrior Born        | +5 Weapon Skill
+Coolheaded          | +5 Willpower
 
 ### Skills
 Skill                        | Type| Proficiency
