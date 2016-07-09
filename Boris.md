@@ -8,7 +8,7 @@
 ### Experience Points
 Current | Total
 --------|------
-     0  | 800
+   200  | 1000
     
 ### Usage Log
 - start
