@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   450  | 1350
+    50  | 1350
     
 ### Usage Log
 - 100 - +1 Magic
@@ -20,6 +20,9 @@ Current | Total
 - 100 - Ag
 - 100 - Int
 - 100 - Fel
+- 100 - Journeman wizard
+- 100 - WP
+- 100 - WP
 
 
 ### Personal Details
@@ -40,17 +43,17 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  37 |  32 |  32 |  30 |  37 |  37 |  35 |  25 |
-Career   |     |     |     |     | 5/5 |10/10|15/15| 5/5 |
+Career   | 0/5 | 0/5 |     | 0/5 | 5/10|10/20|25/25| 5/10|
 Taken    |     |     |     |     |     |     |     |     |
-Current  |  37 |  32 |  32 |  30 |  42 |  52 |  50 |  35 |
+Current  |  37 |  32 |  32 |  30 |  42 |  52 |  60 |  35 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  3  |  4  |  0  |  0  |  3  |
-Career   |     | 2/2 |     |     |     | 1/1 |     |     |
+Career   |     | 2/3 |     |     |     | 2/2 |     |     |
 Taken    |     |     |     |     |     |     |  5  |     |
-Current  |  1  |  14 |  3  |  3  |  4  |  0  |  5  |  3  |
+Current  |  1  |  14 |  3  |  3  |  4  |  2  |  5  |  3  |
   
 ### Talents
     Talent          |    Description
