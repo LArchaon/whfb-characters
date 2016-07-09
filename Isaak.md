@@ -1,14 +1,14 @@
 ### Character
 - **Name**: Isaak Haufmann
 - **Race**: Human
-- **Current Career**: Scribe
-- **Previous Career**:
-- **Career Exits**: Agitator, Apprentice Wizard, Cartographer, Initiate, Navigator, Scholar
+- **Current Career**: Initiate
+- **Previous Career**: Scribe
+- **Career Exits**: Barber-Surgeon, Demagogue, Friar, Lay Priest, Priest, Scribe, Zealot
 
 ### Experience Points
 Current | Total
 --------|------
-    400 | 800
+        | 800
     
 ### Usage Log
 - 100 - int
@@ -16,6 +16,10 @@ Current | Total
 - 100 - will
 - 100 - will
 - added gold for writing mail
+- Promoted to Initiate
+- Public Speaking
+- Charm
+- Fellowship taken
 
 ### Personal Details
 - **Age**: 36
@@ -34,10 +38,10 @@ Current | Total
 #### Main
              |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
-**Starting** |  27 |  36 |  31 |  32 |  29 |  36 |  35 |  27 |
-**Career**   |     |     |     |     | +10 | +10 | +10 |  +5 |
-**Taken**    |     |     |     |     |     | +10 | +10 |     |
-**Current**  |  27 |  36 |  31 |  32 |  29 |  46 |  45 |  27 |
+**Starting** |  27 |  36 |  36 |  32 |  29 |  36 |  35 |  27 |
+**Career**   |  +5 |  +5 |     |  +5 |     | +10 | +10 | +10 |
+**Taken**    |     |     |     |     |     | +10 | +10 |  +5 |
+**Current**  |  27 |  36 |  36 |  32 |  29 |  46 |  45 |  32 |
 
 #### Secondary
              |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -53,10 +57,13 @@ Current | Total
 Night Vision        | 
 Linguist            | You gain a +10% bonus on all Read/Write and Speak Language Skill Tests
 Super Numerate      | You gain a +10% bonus on Gamble and Navigation Skill Tests, and a +20% bonus on Perception Skill Tests that involve estimation.
+Very Strong         | You gain a permanent +5% bonus to your Strength
+Public Speaking     | You can affect 10 times the normal number of people when using the Charm skill.
 
 ### Skills
 Skill                        | Type| Proficiency
 -----------------------------|-----|---------
+Charm                        | Fel | Taken
 Gossip                       | Fel | Taken
 Perception                   | Int | Taken
 Academic Knowledge (History) | Int | Taken
