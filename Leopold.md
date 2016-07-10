@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   0    | 2645
+   0    | 3500
 
 ### xp usage log
 - 100 - Agi
@@ -41,6 +41,11 @@ Current | Total
 - 100 - Wounds
 - 100 - Fel
 - 100 - Advancement:Demagogue
+- 100 - Master Orator
+- 100 - Dodge Blow
+- 100 - +1 Attack
+- 100 - Fel
+
 
 ### Personal Details
 - Age: 25
@@ -59,8 +64,8 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  31 |  24 |  39 |  28 |  35 |  37 |  37 |  32 |
-Advance  |10/10|10/10| 5/5 |10/10|15/15|15/15|15/15|25/25|
-Current  |  41 |  34 |  44 |  38 |  50 |  52 |  52 |  57 |
+Advance  |10/10|10/10| 5/0 |10/10|15/15|15/20|15/15|30/30|
+Current  |  41 |  34 |  44 |  38 |  50 |  52 |  52 |  62 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -77,6 +82,7 @@ Suave               | +5% Fellowship
 Alley Cat           | +10% Urban Concealment
 Super Numerate      | +10% Gambling, Navigation, +20% Evaluate
 Public Speaking     | Charm targets = Fellowship
+Master Orator       | Charm targets = Fellowship x10
 --------------------|---------------
 Menacing            | +10% Intimidate, Torture
 
@@ -85,8 +91,9 @@ Menacing            | +10% Intimidate, Torture
     Skill                  | Type| Proficiency
 ---------------------------|-----|---------
 Charm                      | Fel | Taken
-Concealment                | Ag  | Taken
+Concealment                | Agi | Taken
 Disguise                   | Fel | Taken
+Dodge Blow                 | Agi | Taken
 Evaluate                   | Int | Taken
 Gossip                     | Fel | Taken
 Perception                 | Int | Taken
@@ -98,7 +105,7 @@ Silent Move                | Int | Taken
     Skill                  | Type| Proficiency
 ---------------------------|-----|---------
 Read/Write                 | Int | Taken
-Pick lock                  | Ag  | Taken
+Pick lock                  | Agi | Taken
 Secret Signs (Thief)       | Int | Taken
 Sp. language (Reik.)       | Int | Taken
 Comm. Knowledge (Emp)      | Int | Taken
