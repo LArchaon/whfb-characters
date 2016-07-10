@@ -23,6 +23,7 @@ Current | Total
 - 100 - Journeman wizard
 - 100 - WP
 - 100 - WP
+- 100 - Mag
 
 
 ### Personal Details
