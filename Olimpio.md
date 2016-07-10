@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  500  | 1500
+       | 1500
     
 ### Usage Log
 - 100 - +1 WP
@@ -25,6 +25,11 @@ Current | Total
 - 100 - Disarm
 - 100 - Intimidate
 - 100 - +1 BS
+- 100 - +1 WS
+- 100 - +1 BS
+- 100 - +1 BS
+- 100 - master gunner
+- 100 - specialist weapon - gunpowder
 
 
 
@@ -47,8 +52,8 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  33 |  33 |  31 |  31 |  35 |  28 |  31 |  31 |
-Career   |15/20| 5/20| 5/10| 5/20|10/20| 5/15| 0/15| 0/10|
-Current  |  53 |  38 |  36 |  36 |  50 |  33 |  31 |  31 |
+Career   |20/20|15/20| 5/10| 5/20|10/20| 5/15| 0/15| 0/10|
+Current  |  55 |  48 |  36 |  36 |  50 |  33 |  31 |  31 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -66,7 +71,9 @@ Swashbuckler        | Jump/leap as halfaction. Distance of leaps +1yard
 Strike mighty blow  | +1 Bonus damage on melee attacks
 Quick draw          | Ready action as free action once per round
 Spec.weapon(Fencing)|
+Spec.weapon(gunpowd)|
 Disarm              |
+Master gunner       | -half action reload for black powder weapons
 
 
 
