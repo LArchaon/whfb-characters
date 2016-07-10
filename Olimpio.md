@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-       | 1500
+        | 2000
     
 ### Usage Log
 - 100 - +1 WP

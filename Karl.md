@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  375   | 
+  375   | 1175 + X
 
 usage log:
 
