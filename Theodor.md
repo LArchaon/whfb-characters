@@ -24,6 +24,7 @@ Current | Total
 - 100 - WP
 - 100 - WP
 - 100 - Mag
+- FREE- Dark lore necromancy (after book)
 
 
 ### Personal Details
