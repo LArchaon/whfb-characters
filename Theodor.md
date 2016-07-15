@@ -1,8 +1,8 @@
 ### Character
 - Name: Theodor
 - Race: Mutant
-- Current Career: Apprentice Wizard
-- Previous Career:
+- Current Career: Journeyman Wizard
+- Previous Career: Apprentice Wizard
 
 ### Experience Points
 Current | Total
@@ -20,7 +20,7 @@ Current | Total
 - 100 - Ag
 - 100 - Int
 - 100 - Fel
-- 100 - Journeman wizard
+- 100 - Journeyman wizard
 - 100 - WP
 - 100 - WP
 - 100 - Mag
