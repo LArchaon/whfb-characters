@@ -90,6 +90,7 @@ Speak arcane                 | Int
 Speak classic                | Int  
 Common knowledge             | Int  
 Speak reikspiel              | Int  
+Dark lore (necromancy)       | Int
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
