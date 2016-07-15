@@ -113,7 +113,7 @@ Healing potion             |     |
 Death wish of Isaak        |     |   
 Necromancer spellbook      |     |   
 Pistol                     |     |   
-Pistol shots               | 10  |   
+Pistol shots               |  8  |   
 
 ### Money
 Gold: 9

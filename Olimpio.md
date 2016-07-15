@@ -113,6 +113,8 @@ Rapier                     |     |
 Knife          	     	   |     |
 Poison                     |     |
 Staff                      |     |   
+Pistol                     |     |   
+Pistol shots               |  7  |   
 
 ### Money
 Gold: 5
