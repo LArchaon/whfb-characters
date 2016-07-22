@@ -158,5 +158,5 @@ Best clothes x 1           |     |
 
 ### Money
 gold: 117
-silver: 56
+silver: 55
 brass: 0
