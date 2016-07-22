@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  375   | 1175 + X
+   75   | 1175 + X
 
 usage log:
 
@@ -56,15 +56,18 @@ hardy               |
 ambidextrous        |
 
 ### Skills (basic)
-    Skill                  | Type| Proficiency
----------------------------|-----|---------
-Animal care                | Int | Taken
-Drive                      | str | Taken
-Evaluate                   | int | Taken
-Gossip                     | Fel | Taken
-Haggle                     | fel | Taken
-Perception                 | int | Taken
-Search                     | int | Taken
+    Skill                        | Type| Proficiency
+---------------------------------|-----|---------
+Animal care                      | Int | Taken
+Drive                            | str | Taken
+Evaluate                         | int | Taken
+Gossip                           | Fel | Taken
+Haggle                           | fel | Taken
+Perception                       | int | Taken
+Search                           | int | Taken
+Secret Language (Thieves’ Tongue)| int | Taken
+Silent Move                      |  ag | Taken
+Concealment                      |  ag | Taken
 
 
 ### Skills
