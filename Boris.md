@@ -91,3 +91,5 @@ Common Clothes             |     |
 Cloak                      |     | 
 Matches x 5                |     | 
 2x Gold                    |     |  
+2x Unknown Liquid          |     |  
+5x Good Alcohol            |     |  
