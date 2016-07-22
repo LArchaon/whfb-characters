@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
- 0      | 1100
+ 350      | 1450
     
 ### Usage Log
 - 100 - +1 Ag
@@ -49,7 +49,7 @@ Current  |  32 |  29 |  35 |  28 |  53 |  36 |  39 |  41 |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  2  |  4  |  0  |  0  |  3  |
 Career   |     | 2/2 |     |     |     |     |     |     |
-Current  |  1  |  13 |  3  |  2  |  4  |  0  |  3  |  3  |
+Current  |  1  |  13 |  3  |  2  |  4  |  0  |  7  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -65,7 +65,7 @@ Trapfinder          | +10% Perception/Pick lock
 Charm                        | Fel | 
 Concealment                  | Agl | 
 Disguise                     | Fel | 
-Evaluate       		     | Int |
+Evaluate       		            | Int |
 Perception                   | Int |
 Search                       | Int |
 Silent move                  | Agl | 					
