@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
- 400    | 1100
+ 0      | 1100
     
 ### Usage Log
 - 100 - +1 Ag
@@ -17,7 +17,10 @@ Current | Total
 - 100 - BS
 - 100 - Fel
 - 100 - Fel
-
+- 100 - Read/Write
+- 100 - Int
+- 100 - Wounds
+- 100 - Wounds
 
 
 ### Personal Details
@@ -38,15 +41,15 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  27 |  24 |  30 |  28 |  38 |  31 |  34 |  31 |
-Career   | 5/5 | 5/5 |     |     |15/15| 0/5 |     |10/10|
-Current  |  32 |  29 |  35 |  28 |  53 |  31 |  39 |  41 |
+Career   | 5/5 | 5/5 |     |     |15/15| 5/5 |     |10/10|
+Current  |  32 |  29 |  35 |  28 |  53 |  36 |  39 |  41 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  2  |  4  |  0  |  0  |  3  |
-Career   |     | 0/2 |     |     |     |     |     |     |
-Current  |  1  |  11 |  3  |  2  |  4  |  0  |  3  |  3  |
+Career   |     | 2/2 |     |     |     |     |     |     |
+Current  |  1  |  13 |  3  |  2  |  4  |  0  |  3  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -73,6 +76,7 @@ Silent move                  | Agl |
 Picklock                     | Agl | Taken
 Sleight of hand              | Agl | Taken
 Secret language (thief)      | Int | Taken
+Read/Write                   | Int | Taken
 
 
 ### Weapons
