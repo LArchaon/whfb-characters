@@ -151,7 +151,7 @@ Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, 
 Lockpicks                  |     |
 10 yards of rope           |     |
 Sack                       |     |
-Gunpowder x 8              |     |
+Gunpowder x 6              |     |
 Common clothes x 1         |     |
 Best clothes x 1           |     |
 
