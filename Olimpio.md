@@ -85,7 +85,7 @@ Common knowledge  (Estalia)  | Int | Taken
 Dodge blow                   | Ag  | Taken
 Read/write                   | Int | Taken
 Speak language (Estalian)    | Int | Taken
-Intimadate                   | Str | Taken
+Intimidate                   | Str | Taken
 
 ### Mutations
      Mutation               | Description
@@ -106,13 +106,13 @@ Extra limb                  | +10 Agility/WS when using right hand
 ### Trappings
     Name                   | Enc | Description
 ---------------------------|-----|---------
-Healing draught            |     | 
+Wooden mask and dolls      |     | 
 Perfume or cologne         |     | 
 Best craft clothes         |     | 
-Rapier                     |     | 
+Sword.                     |     | 
 Knife          	     	   |     |
 Poison                     |     |
-Staff                      |     |   
+                           |     |   
 Pistol                     |     |   
 Pistol shots               |  7  |   
 
