@@ -49,6 +49,7 @@ Current | Total
 **Career**   |     |  +2 |     |     |     |     |     |     |
 **Taken**    |     |  +2 |     |     |     |     |     |     |
 **Current**  |  1  |  12 |  3  |  3  |  4  |  0  |  0  |  3  |
+	        damage:2
   
 ### Talents
      Talent         |    Description
