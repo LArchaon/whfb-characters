@@ -1,14 +1,14 @@
 ### Character
 - **Name**: Boris Krasnoff
 - **Race**: Human
-- **Current Career**: Bear Tamer
-- **Previous Career**: 
-- **Career Exits**: Animal Trainer, Entertainer, Initiate of Ursun, Pit Fighter, Soldier
+- **Current Career**: Soldier
+- **Previous Career**: Bear Tamer 
+- **Career Exits**: Mercenary, Outrider, Sergeant, Vagabond, Veteran, Watchman
 
 ### Experience Points
 Current | Total
 --------|------
-   700  | 1700
+     0  | 1700
     
 ### Usage Log
 - start
@@ -19,6 +19,13 @@ Current | Total
 - 2x wounds
 - taken Coolheaded from profession
 - spent +10 on Will-power
+- +5 Fel
+- Wrestling
+- Changed profession to Soldier
+- +1 Attack
+- +5 ws
+- Dodge Blow
+- +5 Agility
 
 ### Personal Details
 - **Age**: 28
@@ -38,17 +45,17 @@ Current | Total
              |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
 **Starting** |  40 |  38 |  33 |  38 |  37 |  39 |  40 |  29 |
-**Career**   |  +5 |     | +10 |  +5 |  +5 |     | +10 |  +5 |
-**Taken**    |  +5 |     | +10 |  +5 |  +5 |     | +10 |     |
-**Current**  |  45 |  38 |  43 |  43 |  42 |  39 |  50 |  29 |
+**Career**   | +10 | +10 |     |     | +10 |     |  +5 |     |
+**Taken**    | +10 |     | +10 |  +5 | +10 |     | +10 |  +5 |
+**Current**  |  50 |  38 |  43 |  43 |  47 |  39 |  50 |  34 |
 
 #### Secondary
              |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
 **Starting** |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
-**Career**   |     |  +2 |     |     |     |     |     |     |
-**Taken**    |     |  +2 |     |     |     |     |     |     |
-**Current**  |  1  |  12 |  3  |  3  |  4  |  0  |  0  |  3  |
+**Career**   |  +1 |  +2 |     |     |     |     |     |     |
+**Taken**    |  +1 |  +2 |     |     |     |     |     |     |
+**Current**  |  2  |  12 |  3  |  3  |  4  |  0  |  0  |  3  |
 	        damage:2
   
 ### Talents
@@ -60,6 +67,7 @@ Very Resilient      | +5 Thoughness
 Savvy               | +5 Intelligence
 Warrior Born        | +5 Weapon Skill
 Coolheaded          | +5 Willpower
+Wrestling           | Unarmed attacks are with a +10% bonus to WS when grappling. +10% bonus on grappling S Tests.
 
 ### Skills
 Skill                        | Type| Proficiency
@@ -68,6 +76,7 @@ Animal Care                  | Int | Taken
 Animal Training              | Fel | Taken
 Charm Animal                 | Fel | Taken
 Consume Alcohol              |  T  | Taken
+Doge Blow                    |  Ag | Taken
 Perception                   | Int | Taken
 Speak Language (Kislevarin)  | Int | Taken
 Speak Language (Reikspiel)   | Int | Taken
