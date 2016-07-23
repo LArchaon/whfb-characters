@@ -111,11 +111,12 @@ Extra limb                  | +10 Agility/WS when using right hand
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
 -------- |-----|-------|--------|-------|--------|---------------------------------
-   Rapier|  50 |       |   SB-1 |       |        | fast (enemy -10% to parry/dodge)
+   Sword |  50 |       |   SB   |       |        |
   
 ### Armour
    Type   | Enc | Location Covered | AP |
 ----------|-----|------------------|----|
+Chaos armr|     | All except head  | 5  |
 
 ### Trappings
     Name                   | Enc | Description
