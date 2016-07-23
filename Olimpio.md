@@ -84,7 +84,7 @@ Sharpshooter        | When aiming, +20 instead of +10 to BS
 
 ### Skills
     Skill                    | Type| Proficiency
--------------------------------------------------
+-----------------------------|-----|-------------
 Gossip                       | Fel | Taken
 Charm                        | Fel | Taken
 Perception                   | Int | Taken
