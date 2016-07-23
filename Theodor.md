@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   50   | 1900
+  450   | 2300
     
 ### Usage Log
 - 100 - +1 Magic
@@ -79,7 +79,7 @@ Very resilient      | +5 Toughness
 ### Skills
     Skill                    | Type| Proficiency
 -----------------------------|-----|---------
-Gossip                       | Int | Taken
+Gossip                       | Fel | Taken
 Perception                   | Int | Taken
 Search                       | Int | Taken
 Swim                         | Str | Taken
@@ -125,6 +125,7 @@ Death wish of Isaak        |     |
 Necromancer spellbook      |     |   
 Pistol                     |     |   
 Pistol shots               |  8  |   
+Bottles of drug (0.5)      |  5  |
 
 ### Money
 Gold: 9

@@ -154,6 +154,9 @@ Sack                       |     |
 Gunpowder x 6              |     |
 Common clothes x 1         |     |
 Best clothes x 1           |     |
+Bottles of alcohol (0.5)   |  2  |
+Bottles of drug (0.5)      |  2  |
+
 
 
 ### Money

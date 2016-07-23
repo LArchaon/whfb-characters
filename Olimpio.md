@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-        | 2000
+        | 2600
     
 ### Usage Log
 - 100 - +1 WP
@@ -24,12 +24,18 @@ Current | Total
 - 100 - Duellist class
 - 100 - Disarm
 - 100 - Intimidate
-- 100 - +1 BS
-- 100 - +1 WS
-- 100 - +1 BS
-- 100 - +1 BS
+- 100 - +5 BS
+- 100 - +5 WS
+- 100 - +5 BS
+- 100 - +5 BS
 - 100 - master gunner
 - 100 - specialist weapon - gunpowder
+- 100 - Charm
+- 100 - Perception
+- 100 - Sharpshooter
+- 100 - +5 WP
+- 100 - +5 WP
+- 100 - +5 WP
 
 
 
@@ -52,8 +58,8 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  33 |  33 |  31 |  31 |  35 |  28 |  31 |  31 |
-Career   |20/20|15/20| 5/10| 5/20|10/20| 5/15| 0/15| 0/10|
-Current  |  58 |  48 |  36 |  36 |  50 |  33 |  31 |  31 |
+Career   |20/20|15/20| 5/10| 5/20|10/20| 5/15|15/15| 0/10|
+Current  |  58 |  48 |  36 |  36 |  50 |  33 |  46 |  31 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -74,6 +80,14 @@ Spec.weapon(Fencing)|
 Spec.weapon(gunpowd)|
 Disarm              |
 Master gunner       | -half action reload for black powder weapons
+Sharpshooter        | When aiming, +20 instead of +10 to BS
+
+### Skills
+    Skill                    | Type| Proficiency
+-------------------------------------------------
+Gossip                       | Fel | Taken
+Charm                        | Fel | Taken
+Perception                   | Int | Taken
 
 
 
@@ -115,6 +129,8 @@ Poison                     |     |
                            |     |   
 Pistol                     |     |   
 Pistol shots               |  7  |   
+Bottles of spirit (0.5)    |  5  |
+Bottles with drug (0.5)    |  5  |
 
 ### Money
 Gold: 5
