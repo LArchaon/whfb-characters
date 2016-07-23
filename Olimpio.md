@@ -119,20 +119,20 @@ Extra limb                  | +10 Agility/WS when using right hand
 Chaos armr|     | All except head  | 5  |
 
 ### Trappings
-    Name                   | Enc | Description
----------------------------|-----|---------
-Wooden mask
-Wooden dolls  (bear, human, etc.)  
-Perfume or cologne         |     | 
-Best craft clothes         |     | 
-Sword                      |     | 
-Knife          	     	   |     |
-Poison                     |     |
-Sigmar prayer book         |     |   
-Pistol                     |     |   
-Pistol shots               |  7  |   
-Bottles of spirit (0.5)    |  5  |
-Bottles with drug (0.5)    |  5  |
+    Name                             | Enc | Description
+-------------------------------------|-----|---------
+Wooden mask                          |     |
+Wooden dolls  (bear, human, etc.)    |     |
+Perfume or cologne                   |     | 
+Best craft clothes                   |     | 
+Sword                                |     | 
+Knife          	        	     |     |
+Poison                               |     |
+Sigmar prayer book                   |     |   
+Pistol                               |     |   
+Pistol shots                         |  7  |   
+Bottles of spirit (0.5)              |  5  |
+Bottles with drug (0.5)              |  5  |
 
 ### Money
 Gold: 4
