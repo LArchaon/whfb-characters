@@ -121,17 +121,18 @@ Chaos armr|     | All except head  | 5  |
 ### Trappings
     Name                   | Enc | Description
 ---------------------------|-----|---------
-Wooden mask and dolls      |     | 
+Wooden mask
+Wooden dolls  (bear, human, etc.)  
 Perfume or cologne         |     | 
 Best craft clothes         |     | 
-Sword.                     |     | 
+Sword                      |     | 
 Knife          	     	   |     |
 Poison                     |     |
-                           |     |   
+Sigmar prayer book         |     |   
 Pistol                     |     |   
 Pistol shots               |  7  |   
 Bottles of spirit (0.5)    |  5  |
 Bottles with drug (0.5)    |  5  |
 
 ### Money
-Gold: 5
+Gold: 4
