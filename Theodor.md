@@ -73,6 +73,7 @@ Hardy               | +1 wound
 Lesser mag.(aeth.ar)| +AP per Magic Power for 1 minute
 Lesser mag.(silence)| Magic power rounds silence
 Very resilient      | +5 Toughness
+Dark lore (necroman)| 
 
 
 
@@ -100,7 +101,6 @@ Speak arcane                 | Int
 Speak classic                | Int  
 Common knowledge             | Int  
 Speak reikspiel              | Int  
-Dark lore (necromancy)       | Int
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
