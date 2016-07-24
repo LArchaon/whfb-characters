@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  450   | 2300
+  150   | 2300
     
 ### Usage Log
 - 100 - +1 Magic
@@ -24,12 +24,16 @@ Current | Total
 - 100 - WP
 - 100 - WP
 - 100 - Mag
-- FREE- Dark lore necromancy (after book)
+- FREE- Dark Magic, Dark lore necromancy (after book)
 - 100 - Lesser magic (aethyric armour) 
 - 100 - Lesser magic (silence) 
 - 100 - Toughness
 - 100 - Very resilient
 - 100 - Swim
+- 100 - Wound
+- 100 - Int
+- 100 - Int
+- 100 - WS
 
 
 ### Personal Details
@@ -50,17 +54,19 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  37 |  32 |  32 |  30 |  37 |  37 |  35 |  25 |
-Career   | 0/5 | 0/5 |     | 5/5 | 5/10|10/20|25/25| 5/10|
+Career   | 5/5 | 0/5 |     | 5/5 | 5/10|20/20|25/25| 5/10|
 Taken    |     |     |     |     |     |     |     |     |
-Current  |  37 |  32 |  32 |  40 |  42 |  52 |  60 |  35 |
+Current  |  42 |  32 |  32 |  40 |  42 |  62 |  60 |  35 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  4  |  4  |  0  |  0  |  3  |
-Career   |     | 2/3 |     |     |     | 2/2 |     |     |
+Career   |     | 3/3 |     |     |     | 2/2 |     |     |
 Taken    |     |     |     |     |     |     |  5  |     |
-Current  |  1  |  14 |  3  |  4  |  4  |  2  |  5  |  3  |
+Current  |  1  |  15 |  3  |  4  |  4  |  2  |  5  |  3  |
+
+current damage : 8
   
 ### Talents
     Talent          |    Description
@@ -74,6 +80,7 @@ Lesser mag.(aeth.ar)| +AP per Magic Power for 1 minute
 Lesser mag.(silence)| Magic power rounds silence
 Very resilient      | +5 Toughness
 Dark lore (necroman)| 
+Dark magic          |
 
 
 
@@ -119,7 +126,7 @@ Mail shirt|     | Body             | 2  |
 Quarter staff              |     | 
 Printed book               |     | 
 Backpack                   |     | 
-Roadwarden sign	     	   |     |
+Roadwarden sign	     	     |     |
 Healing potion             |     |
 Death wish of Isaak        |     |   
 Necromancer spellbook      |     |   
