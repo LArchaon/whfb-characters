@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  350   | 3850
+   50   | 3850
 
 ### xp usage log
 - 100 - Agi
@@ -45,7 +45,9 @@ Current | Total
 - 100 - Dodge Blow
 - 100 - +1 Attack
 - 100 - Fel
-
+- 100 - Advancement:Cult Acolyte of Tzeentch
+- 100 - +1 Magic
+- 100 - Magical Sense
 
 ### Personal Details
 - Age: 25
@@ -64,15 +66,15 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  31 |  24 |  39 |  28 |  35 |  37 |  37 |  32 |
-Advance  |10/10|10/10| 5/5 |10/10|15/15|15/20|15/15|30/30|
+Advance  |10/5 |10/5 | 5/0 |10/0 |15/5 |15/20|15/10|30/20|
 Current  |  41 |  34 |  44 |  38 |  50 |  52 |  52 |  62 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  13 |  3  |  2  |  4  |  0  |  0  |  3  |
-Advance  |     | 4/4 |     |     |     |  0  |     |     |
-Current  |  1  |  17 |  3  |  2  |  4  |  0  |  0  |  2  |
+Advance  | 1/0 | 4/3 |     |     |     | 1/1 |     |     |
+Current  |  2  |  17 |  3  |  2  |  4  |  1  |  0  |  2  |
 
 ### Talents
     Talent          |    Description
@@ -110,6 +112,7 @@ Secret Signs (Thief)       | Int | Taken
 Sp. language (Reik.)       | Int | Taken
 Comm. Knowledge (Emp)      | Int | Taken
 Sleight of Hand            | Wp  | Taken
+Magical Sense              | Wp  | Taken
 
 
 ### Mutations
