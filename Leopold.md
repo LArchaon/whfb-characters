@@ -45,9 +45,10 @@ Current | Total
 - 100 - Dodge Blow
 - 100 - +1 Attack
 - 100 - Fel
-- 100 - Advancement:Cult Acolyte of Tzeentch
+-   0 - Advancement:Cult Acolyte of Tzeentch
 - 100 - +1 Magic
 - 100 - Magical Sense
+- 100 - Speak language (Daemonic)
 
 ### Personal Details
 - Age: 25
@@ -109,7 +110,8 @@ Silent Move                | Int | Taken
 Read/Write                 | Int | Taken
 Pick lock                  | Agi | Taken
 Secret Signs (Thief)       | Int | Taken
-Sp. language (Reik.)       | Int | Taken
+Speak language (Reik.)     | Int | Taken
+Speak language (Daemonic)  | Int | Taken
 Comm. Knowledge (Emp)      | Int | Taken
 Sleight of Hand            | Wp  | Taken
 Magical Sense              | Wp  | Taken
