@@ -55,18 +55,18 @@ Current | Total
 ### Character Profile
 
 #### Main
-         |  WS |  BS |  S  |  T       |  AG | Int |  WP | Fel |
--------- | ----|-----|-----|----------|-----|-----|-----|-----|
-Starting |  33 |  33 |  31 |  31      |  35 |  28 |  31 |  31 |
-Career   |20/20|15/20| 5/10| 5/20     |10/20| 5/15|15/15| 0/10|
-Current  |  58 |  48 |  36 |41(armour)|  50 |  33 |  46 |  31 |
+         |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
+-------- | ----|-----|-----|-----|-----|-----|-----|-----|
+Starting |  33 |  33 |  31 |  36 |  35 |  28 |  31 |  31 |
+Career   |20/20|15/20| 5/10| 5/20|10/20| 5/15|15/15| 0/10|
+Current  |  58 |  48 |  36 |  41 |  50 |  33 |  46 |  31 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
 Career   | 1/1 | 2/4 |     |     |     |     |     |     |
-Current  |  2  |  12 |  3  |  3  |  4  |  0  |  2  |  3  |
+Current  |  2  |  12 |  3  |  4  |  4  |  0  |  2  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -114,9 +114,11 @@ Extra limb                  | +10 Agility/WS when using right hand
    Sword |  50 |       |   SB   |       |        |
   
 ### Armour
-   Type   | Enc | Location Covered | AP |
-----------|-----|------------------|----|
-Chaos armr|     | All except head  | 5  |
+   Type     | Enc | Location Covered | AP | Special
+------------|-----|------------------|----|---------------
+Chaos armour|     | All except head  | 5  | Chaos armour
+
+Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, adapts to rewards/gifts/mutations
 
 ### Trappings
     Name                             | Enc | Description
