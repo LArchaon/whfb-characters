@@ -26,6 +26,7 @@ Current | Total
 - +5 ws
 - Dodge Blow
 - +5 Agility
+- Permanent FP burn
 
 ### Personal Details
 - **Age**: 28
@@ -52,10 +53,10 @@ Current | Total
 #### Secondary
              |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 ------------ | ----|-----|-----|-----|-----|-----|-----|-----|
-**Starting** |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
+**Starting** |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  2  |
 **Career**   |  +1 |  +2 |     |     |     |     |     |     |
 **Taken**    |  +1 |  +2 |     |     |     |     |     |     |
-**Current**  |  2  |  12 |  3  |  3  |  4  |  0  |  0  |  3  |
+**Current**  |  2  |  12 |  3  |  3  |  4  |  0  |  0  |  2  |
 	        damage:2
   
 ### Talents
