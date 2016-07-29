@@ -49,6 +49,11 @@ Current | Total
 - 100 - +1 Magic
 - 100 - Magical Sense
 - 100 - Speak language (Daemonic)
+- 100 - Petty magic(Chaos)
+- 100 - Channeling
+- 100 - Fast Hands
+- 100 - Very Resilient
+- 100 - Academic Knowledge (Magic)
 
 ### Personal Details
 - Age: 25
@@ -66,9 +71,9 @@ Current | Total
 #### Main
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  31 |  24 |  39 |  28 |  35 |  37 |  37 |  32 |
+Starting |  31 |  24 |  39 |  33 |  35 |  37 |  37 |  32 |
 Advance  |10/0 |10/0 | 5/0 |10/0 |15/5 |15/10|15/15| 30/5|
-Current  |  41 |  34 |  44 |  38 |  50 |  52 |  52 |  62 |
+Current  |  41 |  34 |  44 |  43 |  50 |  52 |  52 |  62 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -86,6 +91,8 @@ Alley Cat           | +10% Urban Concealment
 Super Numerate      | +10% Gambling, Navigation, +20% Evaluate
 Public Speaking     | Charm targets = Fellowship
 Master Orator       | Charm targets = Fellowship x10
+Very Resilient      | +5% Toughness
+Fast Hands          | +20% WS to Touch spells
 --------------------|---------------
 Menacing            | +10% Intimidate, Torture
 
@@ -112,9 +119,11 @@ Pick lock                  | Agi | Taken
 Secret Signs (Thief)       | Int | Taken
 Speak language (Reik.)     | Int | Taken
 Speak language (Daemonic)  | Int | Taken
+Academic Knowledge (Magic) | Int | Taken
 Comm. Knowledge (Emp)      | Int | Taken
 Sleight of Hand            | Wp  | Taken
 Magical Sense              | Wp  | Taken
+Channeling                 | Wp  | Taken
 
 
 ### Mutations
@@ -159,9 +168,9 @@ Sack                       |     |
 Gunpowder x 6              |     |
 Common clothes x 1         |     |
 Best clothes x 1           |     |
-Bottles of alcohol (0.5)   |  2  |
-Bottles of drug (0.5)      |  2  |
-
+Bottles of alcohol (0.5)   |  3  |
+Bottles of Mandragora (0.5)|  2  |
+Bottles of warp (0.5)      |  5  |
 
 
 ### Money
