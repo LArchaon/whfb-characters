@@ -56,8 +56,8 @@ Current | Total
 **Starting** |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  2  |
 **Career**   |  +1 |  +2 |     |     |     |     |     |     |
 **Taken**    |  +1 |  +2 |     |     |     |     |     |     |
-**Current**  |  2  |  12 |  3  |  3  |  4  |  0  |  0  |  2  |
-	        damage:2
+**Current**  |  2  |  12 |  3  |  3  |  4  |  0  |  1  |  2  |
+	        Current HP: 1
   
 ### Talents
      Talent         |    Description
