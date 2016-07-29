@@ -132,7 +132,9 @@ Death wish of Isaak        |     |
 Necromancer spellbook      |     |   
 Pistol                     |     |   
 Pistol shots               |  8  |   
-Bottles of drug (0.5)      |  5  |
+Bottles of spirit (0.5)    |  3  |
+Bottles with drug (0.5)    |  3  |
+Bottles from lake (0.5)    |  3  |
 
 ### Money
 Gold: 9
