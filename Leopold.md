@@ -143,7 +143,6 @@ Considers himself emperor  |
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
 -------- |-----|-------|--------|-------|--------|----------
-Sword    |  50 |  ORD  |   SB   |       |        |
 Shield   |  50 |  ORD  | SB-2   |       |        |  +10% parry/resist arrow
 Sword(G) |  50 |  ORD  |   SB   |       |        |  Good
 Crossbow |     |  ORD  |    4   |       |        |
@@ -170,7 +169,7 @@ Common clothes x 1         |     |
 Best clothes x 1           |     |
 Bottles of alcohol (0.5)   |  3  |
 Bottles of Mandragora (0.5)|  2  |
-Bottles of warp (0.5)      |  5  |
+Bottles of warp (0.5)      |  4  |
 
 
 ### Money
