@@ -57,9 +57,9 @@ Current | Total
 #### Main
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  33 |  33 |  31 |  36 |  35 |  28 |  31 |  31 |
+Starting |  33 |  33 |  31 |  36 |  35 |  22 |  31 |  31 |
 Career   |20/20|15/20| 5/10| 5/20|10/20| 5/15|15/15| 0/10|
-Current  |  58 |  48 |  36 |  41 |  50 |  33 |  46 |  31 |
+Current  |  58 |  48 |  36 |  41 |  50 |  27 |  46 |  31 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -106,6 +106,7 @@ Intimidate                   | Str | Taken
 ----------------------------|--------------
 Piercing tongue             | 4 yards, SB damage, Ballistic
 Extra limb                  | +10 Agility/WS when using right hand
+Moronic                     | -6% intellect
 
 
 ### Weapons
