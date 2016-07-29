@@ -135,8 +135,9 @@ Poison                               |     |
 Sigmar prayer book                   |     |   
 Pistol                               |     |   
 Pistol shots                         |  7  |   
-Bottles of spirit (0.5)              |  5  |
-Bottles with drug (0.5)              |  5  |
+Bottles of spirit (0.5)              |  2  |
+Bottles with drug (0.5)              |  3  |
+Bottles with water frm lake (0.5)    |  5  |
 
 ### Money
 Gold: 4
