@@ -1,8 +1,8 @@
 ### Character
 - Name: Leopold
 - Race: Mutant
-- Current Career: Demagogue
-- Previous Career: Charlatan
+- Current Career: Maledictor
+- Previous Career: Demagogue
 
 ### Experience Points
 Current | Total
@@ -45,7 +45,7 @@ Current | Total
 - 100 - Dodge Blow
 - 100 - +1 Attack
 - 100 - Fel
--   0 - Advancement:Cult Acolyte of Tzeentch
+-   0 - Advancement:Maledictor
 - 100 - +1 Magic
 - 100 - Magical Sense
 - 100 - Speak language (Daemonic)
@@ -67,14 +67,14 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  31 |  24 |  39 |  28 |  35 |  37 |  37 |  32 |
-Advance  |10/5 |10/5 | 5/0 |10/0 |15/5 |15/20|15/10|30/20|
+Advance  |10/0 |10/0 | 5/0 |10/0 |15/5 |15/10|15/15| 30/5|
 Current  |  41 |  34 |  44 |  38 |  50 |  52 |  52 |  62 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  13 |  3  |  2  |  4  |  0  |  0  |  3  |
-Advance  | 1/0 | 4/3 |     |     |     | 1/1 |     |     |
+Advance  | 1/0 | 4/2 |     |     |     | 1/1 |     |     |
 Current  |  2  |  17 |  3  |  2  |  4  |  1  |  0  |  2  |
 
 ### Talents
