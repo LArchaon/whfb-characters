@@ -98,6 +98,5 @@ Leather Jack   |     | Body, Hands      |  1 |
 Backpack                   |     | 
 Common Clothes             |     | 
 Cloak                      |     | 
-Matches x 5                |     | 
 2x Gold                    |     |  
 2x Unknown Liquid          |     |  
