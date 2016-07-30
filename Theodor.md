@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  550   | 2800
+   50   | 2800
     
 ### Usage Log
 - 100 - +1 Magic
@@ -34,6 +34,11 @@ Current | Total
 - 100 - Int
 - 100 - Int
 - 100 - WS
+- 100 - BS
+- 100 - AG
+- 100 - Fel
+- 100 - Charm
+- 100 - Mighty missile
 
 
 ### Personal Details
@@ -54,9 +59,9 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  37 |  32 |  32 |  30 |  37 |  37 |  35 |  25 |
-Career   | 5/5 | 0/5 |     | 5/5 | 5/10|20/20|25/25| 5/10|
+Career   | 5/5 | 5/5 |     | 5/5 |10/10|20/20|25/25|10/10|
 Taken    |     |     |     |     |     |     |     |     |
-Current  |  42 |  32 |  32 |  40 |  42 |  62 |  60 |  35 |
+Current  |  42 |  37 |  32 |  40 |  47 |  62 |  60 |  40 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -81,6 +86,7 @@ Lesser mag.(silence)| Magic power rounds silence
 Very resilient      | +5 Toughness
 Dark lore (necroman)| 
 Dark magic          |
+Mighty missile      | +1 damage on magic
 
 
 
@@ -91,6 +97,7 @@ Gossip                       | Fel | Taken
 Perception                   | Int | Taken
 Search                       | Int | Taken
 Swim                         | Str | Taken
+Charm                        | Fel | Taken
 
 ### Mutations
     Mutations              | Description
@@ -122,7 +129,6 @@ Leth.jack |     | Body,arms        | 1  |
 ### Trappings
     Name                   | Enc | Description
 ---------------------------|-----|---------
-Quarter staff              |     | 
 Printed book               |     | 
 Backpack                   |     | 
 Roadwarden sign	     	     |     |
@@ -131,9 +137,9 @@ Death wish of Isaak        |     |
 Necromancer spellbook      |     |   
 Pistol                     |     |   
 Pistol shots               |  8  |   
-Bottles of spirit (0.5)    |  3  |
+Bottles of spirit (0.5)    |  2  |
 Bottles with drug (0.5)    |  3  |
-Bottles from lake (0.5)    |  3  |
+Bottles from lake (0.5)    |  5  |
 
 ### Money
 Gold: 9
