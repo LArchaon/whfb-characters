@@ -66,7 +66,7 @@ Career   |     | 3/3 |     |     |     | 2/2 |     |     |
 Taken    |     |     |     |     |     |     |  5  |     |
 Current  |  1  |  15 |  3  |  4  |  4  |  2  |  5  |  3  |
 
-current damage : 8
+current damage : 0
   
 ### Talents
     Talent          |    Description
