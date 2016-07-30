@@ -118,7 +118,6 @@ Speak reikspiel              | Int
    Type   | Enc | Location Covered | AP |
 ----------|-----|------------------|----|
 Leth.jack |     | Body,arms        | 1  |
-Mail shirt|     | Body             | 2  |
 
 ### Trappings
     Name                   | Enc | Description
