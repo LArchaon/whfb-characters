@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  500   | 3100
+  0     | 3100
     
 ### Usage Log
 - 100 - +1 WP
@@ -37,8 +37,11 @@ Current | Total
 - 100 - +5 WP
 - 100 - +5 WP
 
-
-
+- 100 - +1 Wound
+- 100 - +1 Wound
+- 100 - +5 BS
+- 100 - +5 Toughness
+- 100 - +5 Intellect
 
 ### Personal Details
 - Age: 21
@@ -58,15 +61,15 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  33 |  33 |  31 |  44 |  35 |  22 |  31 |  31 |
-Career   |20/20|15/20| 5/10| 5/20|10/20| 5/15|15/15| 0/10|
-Current  |  58 |  48 |  36 |  49 |  50 |  27 |  46 |  31 |
+Career   |20/20|20/20|5/10 |10/20|10/20|10/15|15/15| 0/10|
+Current  |  58 |  53 |  36 |  54 |  50 |  32 |  46 |  31 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
-Career   | 1/1 | 2/4 |     |     |     |     |     |     |
-Current  |  2  |  12 |  3  |  4  |  4  |  0  |  7  |  3  |
+Career   | 1/1 | 4/4 |     |     |     |     |     |     |
+Current  |  2  |  14 |  3  |  4  |  4  |  0  |  7  |  3  |
 Current damage : 11
   
 ### Talents
@@ -77,11 +80,15 @@ Lightning reflexes  | +5% Agility
 Swashbuckler        | Jump/leap as halfaction. Distance of leaps +1yard
 Strike mighty blow  | +1 Bonus damage on melee attacks
 Quick draw          | Ready action as free action once per round
-Spec.weapon(Fencing)|
-Spec.weapon(gunpowd)|
+Spec.weap(Fencing)  |
+Spec.weap(gunpowd)  |
 Disarm              |
 Master gunner       | -half action reload for black powder weapons
 Sharpshooter        | When aiming, +20 instead of +10 to BS
+Etiquette           | NOT YET Taken 
+Mighty shot         | NOT YET Taken 
+Spec.weap(Parrying) | NOT YET Taken 
+Strike to injure    | NOT YET Taken 
 
 ### Skills
     Skill                    | Type| Proficiency
@@ -89,6 +96,8 @@ Sharpshooter        | When aiming, +20 instead of +10 to BS
 Gossip                       | Fel | Taken
 Charm                        | Fel | Taken
 Perception                   | Int | Taken
+Gamble                       |     | NOT YET Taken 
+Sleight of hand              |     | NOT YET Taken
 
 
 
@@ -129,15 +138,16 @@ Wooden mask                          |     |
 Wooden dolls  (bear, human, etc.)    |     |
 Perfume or cologne                   |     | 
 Best craft clothes                   |     | 
+Rat Ogre cape & Mask                 |     |
 Sword                                |     | 
-Knife          	        	     |     |
+Knife          	        	           |     |
 Poison                               |     |
 Sigmar prayer book                   |     |   
 Pistol                               |     |   
 Pistol shots                         |  7  |   
-Bottles of spirit (0.5)              |  2  |
-Bottles with drug (0.5)              |  3  |
-Bottles with water frm lake (0.5)    |  5  |
+Bottles of spirit (0.5)              |  3  |
+Bottles with drug (0.5)              |  4  |
+Bottles with water from lake (0.5)   |  2  |
 
 ### Money
 Gold: 4
