@@ -86,7 +86,7 @@ Lesser mag.(silence)| Magic power rounds silence
 Very resilient      | +5 Toughness
 Dark lore (necroman)| 
 Dark magic          |
-Mighty missile      | +1 damage on magic
+Mighty missile      | +1 damage with magic missile spells
 
 
 
