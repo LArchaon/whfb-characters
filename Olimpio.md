@@ -69,7 +69,7 @@ Current  |  58 |  53 |  36 |  54 |  50 |  32 |  46 |  31 |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
 Career   | 1/1 | 4/4 |     |     |     |     |     |     |
-Current  |  2  |  14 |  3  |  4  |  4  |  0  |  7  |  3  |
+Current  |  2  |  14 |  3  |  4  |  4  |  0  |  2  |  3  |
 Current damage : 11
   
 ### Talents
@@ -110,6 +110,10 @@ Dodge blow                   | Ag  | Taken
 Read/write                   | Int | Taken
 Speak language (Estalian)    | Int | Taken
 Intimidate                   | Str | Taken
+
+### Insanities
+Blindness of bliss
+Glorious illusions
 
 ### Mutations
      Mutation               | Description
