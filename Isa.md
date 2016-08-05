@@ -46,7 +46,7 @@ Current  |  25 |  54 |  38 |  23 |  49 |  31 |  29 |  30 |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  2  |  4  |  0  |  0  |  3  |
 Career   |     | 2/3 |     |     |     |     |     |     |
-Current  |  1  |  13 |  3  |  2  |  4  |  0  |  4  |  3  |
+Current  |  1  |  13 |  3  |  2  |  4  |  0  |  0  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -64,7 +64,10 @@ Outdoor survival             | Int |
 Perception                   | Int | 					
 Search                       | Int | 					
 Swim                         | Str | 					
-Silent move                  | Agl | 					
+Silent move                  | Agl | 		
+
+### Trappings
+Restless fingers
 
 ### Advanced skills
     Skill                    | Type| Proficiency
