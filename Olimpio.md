@@ -1,13 +1,13 @@
 ### Character
 - Name: Olimpio
-- Race: Human
-- Current Career: Duellist
-- Previous Career: Estalian Diestro
+- Race: Mutant
+- Current Career: ASpiring Champion
+- Previous Career: Duellist <-- Estalian Diestro
 
 ### Experience Points
 Current | Total
 --------|------
-  0     | 3100
+  400   | 3500
     
 ### Usage Log
 - 100 - +1 WP
@@ -43,6 +43,12 @@ Current | Total
 - 100 - +5 Toughness
 - 100 - +5 Intellect
 
+- 100 - +5 Intellect
+- 100 - Mighty shot   
+- 100 - Strike to injure
+Duellist -> Aspiring Champion (of chaos)
+- 100 - Coolheaded
+
 ### Personal Details
 - Age: 21
 - Gender: Male
@@ -60,9 +66,9 @@ Current | Total
 #### Main
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  33 |  33 |  31 |  44 |  35 |  22 |  31 |  31 |
-Career   |20/20|20/20|5/10 |10/20|10/20|10/15|15/15| 0/10|
-Current  |  58 |  53 |  36 |  54 |  50 |  32 |  46 |  31 |
+Starting |  33 |  33 |  31 |  44 |  35 |  22 |  36 |  31 |
+Career   |20/20|20/20|5/10 |10/20|10/20|15/15|15/15| 0/10|
+Current  |  58 |  53 |  36 |  54 |  50 |  37 |  51 |  31 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -70,7 +76,7 @@ Current  |  58 |  53 |  36 |  54 |  50 |  32 |  46 |  31 |
 Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
 Career   | 1/1 | 4/4 |     |     |     |     |     |     |
 Current  |  2  |  14 |  3  |  4  |  4  |  0  |  2  |  3  |
-Current damage : 11
+Current damage : 7
   
 ### Talents
     Talent          |    Description
@@ -82,13 +88,13 @@ Strike mighty blow  | +1 Bonus damage on melee attacks
 Quick draw          | Ready action as free action once per round
 Spec.weap(Fencing)  |
 Spec.weap(gunpowd)  |
+Intimidate          |
 Disarm              |
 Master gunner       | -half action reload for black powder weapons
 Sharpshooter        | When aiming, +20 instead of +10 to BS
-Etiquette           | NOT YET Taken 
-Mighty shot         | NOT YET Taken 
-Spec.weap(Parrying) | NOT YET Taken 
-Strike to injure    | NOT YET Taken 
+ Mighty shot        |  +1 missile dmg
+Strike to injure    | +1 critical value
+Coolheaded          | +5% to starting WillPower
 
 ### Skills
     Skill                    | Type| Proficiency
@@ -146,12 +152,12 @@ Rat Ogre cape & Mask                 |     |
 Sword                                |     | 
 Knife          	        	           |     |
 Poison                               |     |
-Sigmar prayer book                   |     |   
+Sigmar prayer book (stolen   )       |     |   
 Pistol                               |     |   
 Pistol shots                         |  7  |   
 Bottles of spirit (0.5)              |  3  |
 Bottles with drug (0.5)              |  4  |
-Bottles with water from lake (0.5)   |  2  |
+Bottles with water from lake (0.5)   |  1  |
 
 ### Money
 Gold: 4
