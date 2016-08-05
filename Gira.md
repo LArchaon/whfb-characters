@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
- 350      | 1450
+ 150      | 1450
     
 ### Usage Log
 - 100 - +1 Ag
@@ -21,6 +21,8 @@ Current | Total
 - 100 - Int
 - 100 - Wounds
 - 100 - Wounds
+- Scale sheer surface
+- Secret signgs (thief)
 
 
 ### Personal Details
@@ -69,6 +71,7 @@ Evaluate       		            | Int |
 Perception                   | Int |
 Search                       | Int |
 Silent move                  | Agl | 					
+Scale sheer surface           | Str | 			
 
 ### Advanced skills
     Skill                    | Type| Proficiency
@@ -76,7 +79,9 @@ Silent move                  | Agl |
 Picklock                     | Agl | Taken
 Sleight of hand              | Agl | Taken
 Secret language (thief)      | Int | Taken
+Secret signs (thief)         | Int | Taken
 Read/Write                   | Int | Taken
+
 
 
 ### Weapons
