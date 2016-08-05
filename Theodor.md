@@ -58,10 +58,10 @@ Current | Total
 #### Main
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  37 |  32 |  32 |  30 |  37 |  37 |  35 |  25 |
+Starting |  37 |  32 |  31 |  30 |  37 |  37 |  35 |  25 |
 Career   | 5/5 | 5/5 |     | 5/5 |10/10|20/20|25/25|10/10|
 Taken    |     |     |     |     |     |     |     |     |
-Current  |  42 |  37 |  32 |  40 |  47 |  62 |  60 |  40 |
+Current  |  42 |  37 |  31 |  40 |  47 |  62 |  60 |  40 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -71,7 +71,7 @@ Career   |     | 3/3 |     |     |     | 2/2 |     |     |
 Taken    |     |     |     |     |     |     |  5  |     |
 Current  |  1  |  15 |  3  |  4  |  4  |  2  |  5  |  3  |
 
-current damage : 0
+current damage : 6
   
 ### Talents
     Talent          |    Description
