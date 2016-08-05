@@ -1,7 +1,7 @@
 ### Character
 - Name: Olimpio
 - Race: Mutant
-- Current Career: ASpiring Champion
+- Current Career: Aspiring Champion
 - Previous Career: Duellist <-- Estalian Diestro
 
 ### Experience Points
@@ -46,7 +46,7 @@ Current | Total
 - 100 - +5 Intellect
 - 100 - Mighty shot   
 - 100 - Strike to injure
-Duellist -> Aspiring Champion (of chaos)
+- 000 - Duellist -> Aspiring Champion (of chaos)
 - 100 - Coolheaded
 
 ### Personal Details
