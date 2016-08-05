@@ -80,7 +80,7 @@ Current  |  41 |  34 |  44 |  43 |  50 |  52 |  52 |  62 |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  13 |  3  |  2  |  4  |  0  |  0  |  3  |
 Advance  | 1/0 | 4/2 |     |     |     | 1/1 |     |     |
-Current  |  2  |  17 |  4  |  3  |  4  |  1  |  0  |  2  |
+Current  |  2  |  17 |  4  |  3  |  4  |  1  |  1  |  2  |
 
 ### Talents
     Talent          |    Description
@@ -132,6 +132,7 @@ Channeling                 | Wp  | Taken
 Uncanny Resemblance        | facial features transform to resemble an important person
 Cloven Hooves              | Legs -> Hooves
 Polyps                     | 1 polyp on stomach
+Allergic to fur            | Sneezes
 
 
 ### Insanities
