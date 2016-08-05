@@ -51,7 +51,7 @@ Current  |  32 |  29 |  35 |  28 |  53 |  36 |  39 |  41 |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  2  |  4  |  0  |  0  |  3  |
 Career   |     | 2/2 |     |     |     |     |     |     |
-Current  |  1  |  13 |  3  |  2  |  4  |  0  |  7  |  3  |
+Current  |  1  |  13 |  3  |  2  |  4  |  0  |  1  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -83,6 +83,8 @@ Secret signs (thief)         | Int | Taken
 Read/Write                   | Int | Taken
 
 
+### Insanities
+Fear of people (10+) or music
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
