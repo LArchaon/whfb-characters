@@ -141,6 +141,13 @@ Shadowsteed                | 11  |                      | You call forth a dark 
 Shroud of Invisibility     | 17  |                      | You shroud yourself with magic and disappear from sight for 1d10 rounds. While you are invisible, you can’t be targeted with ranged attacks, including magic missiles. Any melee attacks you make receive a +20% Weapon Skill bonus. Anyone within 4 yards (2 squares) of you can make a Hard (–20%) Perception Skill Test to detect you using non-visual senses. If a successful test is made, you can be attacked, but attackers suffer a –30% penalty to Weapon Skill or Ballistic Skill as appropriate. You cannot cast this spell on others.
 Throttling                 | 13  |                      | You send ropes of inky darkness to throttle any one target within 12 yards (6 squares), cutting off his ability to breathe entirely and forcing him to make a Toughness Test to resist the effects the spell. You can maintain this spell with a half action on each subsequent round, but you may cast no further spells while doing so. If you maintain the spell, the Toughness Test is modified a cumulative –10% penalty each round until it is failed, at which point the target begins to take damage. The first round of failure causes a Damage 1 hit that ignores Armour, and each subsequent round the Damage of the hit increases by 1. No additional Toughness Tests are allowed to resist damage after the first has been failed; the damage simply continues to compound until you stop, or are forced to stop, concentrating on the spell. The rules for concentration (see WFRP, Spellcasting Limits, page 144) apply.
 
+# Spells (tzeentch)
+    Name                   | CN  | Inridient            | Description
+---------------------------|-----|----------------------|--------------------------------------------
+Cloak Activity             |   |                      | 
+Cloak Activity             |   |                      | 
+Cloak Activity             |   |                      | 
+Cloak Activity             |   |                      | 
 
 
 ### Money
