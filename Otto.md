@@ -148,7 +148,9 @@ Cloak Activity             |   |                      |
 Cloak Activity             |   |                      | 
 Cloak Activity             |   |                      | 
 Cloak Activity             |   |                      | 
-
+Cloak Activity             |   |                      | 
+Cloak Activity             |   |                      | 
+Cloak Activity             |   |                      | 
 
 ### Money
 Gold: 5
