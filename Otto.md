@@ -155,5 +155,14 @@ Transformation of Tztch. |  18 |  full  | The heart of a Mutant (+2) | Select a 
 Tzeentch’s Blessing      | 18  | full  | The finger of a Wizard (+2) | You cry out to Tzeentch for the Dark God’s blessing. Roll 1d10. On an odd number, you gain one mutation. On an even number you may add one spell from any Lore to your repertoire for one day.
 Tzeentch’s Fire Storm    | 25  | 2full | A bonfire made from the bones of 13 Mutants (+3) | You cause a blasphemous storm of purple flame to erupt anywhere you designate within 24 yards (12 squares). Use the large template. All creatures under the template take four Damage 4 hits. Those slain by Tzeentch’s fire storm are incinerated, transformed into pink ash that blows away in the wind. But that’s not all. The ashes swirl about for 2 rounds and finally coalesce into Pink Horrors of Tzeentch, one for each victim slain. These creatures are not under your control, and they attack the closest creatures to them. They eventually grow weary of this world and return to the Realm of Chaos after 1d10 rounds.
 
+# Spells (petty arcane)
+    Name                   | CN  | Time | Inridient            | Description
+---------------------------|-----|------|----------------------|--------------------------------------------
+Destroy Magic              | 20  | 2full|                      |
+Destroy Magic              | 20  | 2full|                      |
+Destroy Magic              | 20  | 2full|                      |
+Destroy Magic              | 20  | 2full|                      |
+Destroy Magic              | 20  | 2full|                      |
+
 ### Money
 Gold: 5
