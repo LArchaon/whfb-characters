@@ -1,8 +1,8 @@
 ### Character
 - Name: Otto
 - Race: Mutant
-- Current Career: Journeyman Wizard
-- Previous Career: Apprentice Wizard
+- Current Career: Maledictor
+- Previous Career: Apprentice Wizard -> Journeyman Wizard
 
 ### Experience Points
 Current | Total
