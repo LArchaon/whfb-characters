@@ -127,7 +127,8 @@ Paper, ink, pen            |     |
 ### Familiar
 TODO
 
-# Spells (shadow)
+# Spells
+### Spells (shadow)
     Name                   | CN  | Time | Inredient            | Description
 ---------------------------|-----|------|----------------------|--------------------------------------------
 Cloak Activity             | 12  |half  | A sketch of your illusory action (+2)  | This spell allows you to perform any act while appearing to do something completely different. You appear to be exactly where you are, but engaged in a different activity. For example, you can appear to all eyes to be reading a book when you are actually punching someone in the face. If your action affects someone else (an attack, spell, picking a pocket, etc.), the victim is allowed an Intelligence Test to see through the illusion. Cloak activity lasts for 1d10 rounds. If cast successfully, cloak activity also disguises the act of casting the spell.
@@ -141,7 +142,7 @@ Shadowsteed                | 11   |full |  A chip of hoof from a well-travelled 
 Shroud of Invisibility     | 17   |full | A gossamer shroud (+2)| You shroud yourself with magic and disappear from sight for 1d10 rounds. While you are invisible, you can’t be targeted with ranged attacks, including magic missiles. Any melee attacks you make receive a +20% Weapon Skill bonus. Anyone within 4 yards (2 squares) of you can make a Hard (–20%) Perception Skill Test to detect you using non-visual senses. If a successful test is made, you can be attacked, but attackers suffer a –30% penalty to Weapon Skill or Ballistic Skill as appropriate. You cannot cast this spell on others.
 Throttling                 | 13  |full  | A garrotte that has been used to strangle a man (+2) | You send ropes of inky darkness to throttle any one target within 12 yards (6 squares), cutting off his ability to breathe entirely and forcing him to make a Toughness Test to resist the effects the spell. You can maintain this spell with a half action on each subsequent round, but you may cast no further spells while doing so. If you maintain the spell, the Toughness Test is modified a cumulative –10% penalty each round until it is failed, at which point the target begins to take damage. The first round of failure causes a Damage 1 hit that ignores Armour, and each subsequent round the Damage of the hit increases by 1. No additional Toughness Tests are allowed to resist damage after the first has been failed; the damage simply continues to compound until you stop, or are forced to stop, concentrating on the spell. The rules for concentration (see WFRP, Spellcasting Limits, page 144) apply.
 
-# Spells (tzeentch)
+### Spells (tzeentch)
     Name                   | CN  | Time | Inredient            | Description
 ---------------------------|-----|------|----------------------|--------------------------------------------
 Destroy Magic              | 20  | 2full|The blood of a Horror (+2)| You intone the profane words of Daemons, drawing the energy found within a targeted magic item into yourself. A magic item of your choice within 6 yards (3 squares) immediately loses all magical properties for 1d10 minutes. You must succeed on a Challenging (–10%) Toughness Test or gain one mutation.
@@ -155,7 +156,7 @@ Transformation of Tztch. |  18 |  full  | The heart of a Mutant (+2) | Select a 
 Tzeentch’s Blessing      | 18  | full  | The finger of a Wizard (+2) | You cry out to Tzeentch for the Dark God’s blessing. Roll 1d10. On an odd number, you gain one mutation. On an even number you may add one spell from any Lore to your repertoire for one day.
 Tzeentch’s Fire Storm    | 25  | 2full | A bonfire made from the bones of 13 Mutants (+3) | You cause a blasphemous storm of purple flame to erupt anywhere you designate within 24 yards (12 squares). Use the large template. All creatures under the template take four Damage 4 hits. Those slain by Tzeentch’s fire storm are incinerated, transformed into pink ash that blows away in the wind. But that’s not all. The ashes swirl about for 2 rounds and finally coalesce into Pink Horrors of Tzeentch, one for each victim slain. These creatures are not under your control, and they attack the closest creatures to them. They eventually grow weary of this world and return to the Realm of Chaos after 1d10 rounds.
 
-# Spells (petty arcane)
+### Spells (petty arcane)
     Name                   | CN  | Time  | Inredient            | Description
 ---------------------------|-----|-------|----------------------|--------------------------------------------
 Glowing light              | 3   | half  |                      |You can cause any item in your grasp to glow with the light of a lantern for one hour or until you let it go.
@@ -165,7 +166,7 @@ Sleep                      | 6   | half  |                      |Your touch caus
 Marsh lights               | 6   | full  |                      |You create the appearance of a number of distant lights that suggest torches or lanterns. They appear within 100 yards (50 squares) of you and can then be sent off in any direction. They naturally follow corridors or paths and do not need to be controlled or overseen in any way. You can control them more closely if desired, but only as long as they remain in line of sight. You can’t perform any other actions while controlling the lights. The lights travel at various speeds, but never slower than 8 yards (4 squares) per round or faster than 16 yards (8 squares) per round. They last for one hour, and then gradually fade and vanish.
 Magic dart                 | 6   | half  |                      |You throw a dart of magical force at an opponent within 16 yards (8 squares). Although small, the magic dart strikes with considerable force. A magic dart is magic missile with Damage 3.
 
-# Spells (petty chaos)
+### Spells (petty chaos)
     Name                   | CN  | Time  | Inredient            | Description
 ---------------------------|-----|-------|----------------------|--------------------------------------------
 Befuddle                   | 4   | half  | A bud of Black Lotus (+1) |Your touch causes one opponent to become drowsy and giggly for 1d10 rounds unless he succeeds on a Will Power Test. Whilst affected, the opponent takes a –20% to all Characteristics and Skill Tests. Befuddle is a touch spell.
