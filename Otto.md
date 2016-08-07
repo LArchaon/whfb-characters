@@ -12,7 +12,7 @@ Current | Total
 ### Usage Log
 - 100 - +1 Magic
 - 100 - WP
-- 100 - WPm
+- 100 - WP
 - 100 - WP
 - 100 - Wound
 - 100 - Wound
