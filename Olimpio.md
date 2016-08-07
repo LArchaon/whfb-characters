@@ -118,8 +118,8 @@ Speak language (Estalian)    | Int | Taken
 Intimidate                   | Str | Taken
 
 ### Insanities
-Blindness of bliss
-Glorious illusions
+ - Blindness of bliss
+ - Glorious illusions
 
 ### Mutations
      Mutation               | Description
