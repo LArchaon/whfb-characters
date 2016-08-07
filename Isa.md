@@ -66,9 +66,6 @@ Search                       | Int |
 Swim                         | Str | 					
 Silent move                  | Agl | 		
 
-### Trappings
-Restless fingers
-
 ### Advanced skills
     Skill                    | Type| Proficiency
 -----------------------------|-----|---------
