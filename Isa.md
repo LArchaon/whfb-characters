@@ -75,6 +75,9 @@ Restless fingers
 Follow trail                 | Int | Taken
 Secret signs (ranger)        | Int | Taken
 
+### Insanities
+ - Restless fingers (steal everything!)
+
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
