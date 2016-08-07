@@ -86,6 +86,11 @@ Read/Write                   | Int | Taken
 ### Insanities
 Fear of people (10+) or music
 
+### Mutations
+ Name        | Description
+ ------------|---------------------------------------------------------
+  Spiked tail |  You are surprised to discover you have somehow grown a thick reptilian tail that ends in a knobbly spiked ball. You can attack with it. The tail has the Pummelling Quality and deals SB Damage. (Pummelling - 	You	gain	a	+10%	 bonus	to	your	Strength	when	using	the	Strike	to	Stun	talent.	)
+
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
 -------- |-----|-------|--------|-------|--------|---------------------------------
