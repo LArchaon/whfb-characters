@@ -113,7 +113,7 @@ Magic sense                  | WP
 Read/write                   | Int  
 Speak arcane                 | Int  
 Speak classic                | Int  
-Common knowledge             | Int  
+Common knowledge (empire)    | Int  
 Speak reikspiel              | Int  
 
 ### Weapons
