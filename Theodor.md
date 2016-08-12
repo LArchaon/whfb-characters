@@ -112,13 +112,15 @@ Thick fur		   | +1 AP except face
 ### Advanced Skills
     Skill	             | Type 
 -----------------------------|------------------------
-Academic knowledge (Magic)   | Int   
+Academic knowledge (Magic)   | Int
+Academic knowl. (Necromancy) | Int
 Channeling                   | WP   
 Magic sense                  | WP   
 Read/write                   | Int  
 Speak arcane                 | Int  
 Speak classic                | Int  
 Common knowledge (empire)    | Int  
+Common knowledge (estalia)   | Int  
 Speak reikspiel              | Int  
 
 ### Weapons
