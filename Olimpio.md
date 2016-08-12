@@ -160,4 +160,4 @@ Bottles with drug (0.5)              |  4  |
 Bottles with water from lake (0.5)   |  1  |
 
 ### Money
-Gold: 4
+Gold: 5+4
