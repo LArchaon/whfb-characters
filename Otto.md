@@ -49,10 +49,10 @@ Current | Total
 #### Main
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |     |     |-1d10|     |+1d10| +5  |  +5 |     |
+Starting |  30 |  24 | 31  |  29 | 39  |  41 |  38 |  25 |
 Career   |     |     |     |     | 5/5 |10/10|15/15| 5/5 |
 Taken    |     |     |     |     |     |     |     |     |
-Current  |     |     |     |     |     |     |     |     |
+Current  |  30 |  24 | 31  |  29 |  44 |  51 |  53 |  30 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
