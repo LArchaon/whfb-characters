@@ -98,4 +98,4 @@ Animal traps x 2           |     |
 Antitoxin kit              |     | 
 
 ### Money
-Gold: 10
+Gold: 10+5
