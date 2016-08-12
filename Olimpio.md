@@ -102,8 +102,8 @@ Coolheaded          | +5% to starting WillPower
 Gossip                       | Fel | Taken
 Charm                        | Fel | Taken
 Perception                   | Int | Taken
-Gamble                       |     | NOT YET Taken 
-Sleight of hand              |     | NOT YET Taken
+                             |     | 
+                             |     | 
 
 
 
@@ -150,7 +150,7 @@ Perfume or cologne                   |     |
 Best craft clothes                   |     | 
 Rat Ogre cape & Mask                 |     |
 Sword                                |     | 
-Knife          	        	           |     |
+Knife          	        	         |     |
 Poison                               |     |
 Sigmar prayer book (stolen   )       |     |   
 Pistol                               |     |   
