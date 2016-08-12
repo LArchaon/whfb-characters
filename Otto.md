@@ -63,11 +63,25 @@ Current  |  30 |  24 | 31  |  29 |  44 |  51 |  58 |  30 |
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  9  |     |     |  3  |  0  |  0  |  3  |
-Career   |     |  2  |     |     |     |  1  |     |     |
+Career   |     |  3  |     |     |     |  2  |     |     |
 Taken    |     |  2  |     |     |     |  2  |     |     |
 Current  |  1  |  11 |     |     |  3  |  2  |  0  |  3  |
 
 current damage : 0
+
+### Left in career
+- Intimidate
+- Ride or swim
+- Lesser Magic (any three)
+- Meditation or Mighty Missile
+- Stout-hearted (+10 vs fear/intimidate)
+
+### Left in career optional
+- Very Resilient
+- Academic Knowledge (any one)
+- Common Knowledge (any one)
+- Channelling++
+- Speak Language (any two)
   
 ### Talents
     Talent                    |    Description
