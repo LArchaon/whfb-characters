@@ -149,7 +149,7 @@ Bottles with drug (0.5)    |  3  |
 Bottles from lake (0.5)    |  5  |
 
 ### Money
-Gold: 9
+Gold: 14
 
 ### Spells (petty arcane)
     Name                   | CN  | Time  | Inredient            | Description
