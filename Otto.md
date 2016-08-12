@@ -133,7 +133,7 @@ Paper, ink, pen            |     |
 TODO
 
 ### Money
-Gold: 10
+Gold: 9
 
 # Spells
 ### Spells (shadow)
