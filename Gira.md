@@ -1,13 +1,13 @@
 ### Character
 - Name: Gira
-- Race: Human
-- Current Career: Thief
-- Previous Career:
+- Race: Mutant
+- Current Career: Rogue
+- Previous Career: Thief
 
 ### Experience Points
 Current | Total
 --------|------
- 550      | 1850
+ 50     | 1850
     
 ### Usage Log
 - 100 - +1 Ag
@@ -24,6 +24,11 @@ Current | Total
 - Scale sheer surface
 - Secret signgs (thief)
 
+- 100 Thief -> Rogue
+- 100 - Willpower
+- 100 - Blather
+- 100 - Gossip
+- 100 - Performer
 
 ### Personal Details
 - Age: 28
@@ -43,8 +48,8 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  27 |  24 |  30 |  28 |  38 |  31 |  34 |  31 |
-Career   | 5/5 | 5/5 |     |     |15/15| 5/5 |     |10/10|
-Current  |  32 |  29 |  35 |  28 |  53 |  36 |  39 |  41 |
+Career   | 5/5 | 5/5 |     |     |15/15| 5/5 |  5/5|10/10|
+Current  |  32 |  29 |  35 |  28 |  53 |  36 |  44 |  41 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -71,7 +76,10 @@ Evaluate       		            | Int |
 Perception                   | Int |
 Search                       | Int |
 Silent move                  | Agl | 					
-Scale sheer surface           | Str | 			
+Scale sheer surface          | Str | 	
+Blather                      | Fel |
+Gossip                       | Fel |
+Performer (actor)            | Fel |
 
 ### Advanced skills
     Skill                    | Type| Proficiency
