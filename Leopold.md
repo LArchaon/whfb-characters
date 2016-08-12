@@ -1,13 +1,13 @@
 ### Character
 - Name: Leopold
 - Race: Mutant
-- Current Career: Maledictor
-- Previous Career: Demagogue
+- Current Career: Doomweaver
+- Previous Career: Maledictor
 
 ### Experience Points
 Current | Total
 --------|------
-  450   | 4750
+   50   | 4750
 
 ### xp usage log
 - 100 - Agi
@@ -54,6 +54,10 @@ Current | Total
 - 100 - Fast Hands
 - 100 - Very Resilient
 - 100 - Academic Knowledge (Magic)
+- 100 - Savvy
+- 100 - Advancement:Doomweaver
+- 100 - Dark Lore(Tzeentch)
+- 100 - +1 Magic
 
 ### Personal Details
 - Age: 25
@@ -71,9 +75,9 @@ Current | Total
 #### Main
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  31 |  24 |  39 |  33 |  35 |  37 |  37 |  32 |
+Starting |  31 |  24 |  39 |  33 |  35 |  42 |  37 |  32 |
 Advance  |10/0 |10/0 | 5/0 |10/0 |15/5 |15/10|15/15| 30/5|
-Current  |  41 |  34 |  44 |  43 |  50 |  52 |  52 |  62 |
+Current  |  41 |  34 |  44 |  43 |  50 |  57 |  52 |  62 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -87,6 +91,7 @@ Current  |  2  |  17 |  4  |  3  |  4  |  1  |  1  |  2  |
 --------------------|---------------
 Acute Hearing       | +20% Listening Perception
 Suave               | +5% Fellowship
+Savvy               | +5% Int
 Alley Cat           | +10% Urban Concealment
 Super Numerate      | +10% Gambling, Navigation, +20% Evaluate
 Public Speaking     | Charm targets = Fellowship
