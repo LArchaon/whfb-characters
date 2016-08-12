@@ -153,6 +153,7 @@ Key of augusts house       |     |
 
 ### Money
 Gold: 14
+Silver: 9
 
 ### Spells (petty arcane)
     Name                   | CN  | Time  | Inredient            | Description
