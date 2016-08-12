@@ -134,7 +134,7 @@ Speak reikspiel              | Int
 Leth.jack |     | Body,arms        | 1  |
 
 ### Trappings
-    Name                   | Enc | Description
+    Name                   | Qty | Description
 ---------------------------|-----|---------
 Printed book               |     | 
 Backpack                   |     | 
@@ -145,8 +145,11 @@ Necromancer spellbook      |     |
 Pistol                     |     |   
 Pistol shots               |  8  |   
 Bottles of spirit (0.5)    |  2  |
-Bottles with drug (0.5)    |  3  |
+Bottles with drug (0.5)    |  2  |
 Bottles from lake (0.5)    |  5  |
+Small book of shadow lore  |     |
+Gloves                     |     |
+Key of augusts house       |     |
 
 ### Money
 Gold: 14
