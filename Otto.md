@@ -95,7 +95,7 @@ Search                       | Int | Taken
     Mutations              | Description
 ---------------------------|--------------
 Illusion of Normality      | A powerful magic conceals all evidence of your mutations. You retain any penalties or benefits from the mutations, but so long as you remain out of combat, you are indistinguishable from any other of your former race. When engaged in melee combat, your opponent automatically sees you for what you are, and if you have the Frightening or Terrifying Talents, you resolve Fear and Terror Tests then.
-Shrink                     | body is 1/2 size. -1W, -1M, -1d10 STR, +1d10 AG
+Shrink                     | body is 1/2 size. -1W, -1M, -1d10 (rolled 3) STR, +1d10 (rolled 6) AG
 
 
 ### Advanced Skills
