@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  200   | 1900
+        | 1900
     
 ### Usage Log
 - 100 - +1 Magic
@@ -29,6 +29,8 @@ Current | Total
 - FREE - career advance - maledictor
 - 100 - Petty magic (chaos)
 - 100 - Speak Arcane Language (Daemonic)
+- 100 - Academic knowledge (Daemonology) 
+- 100 - Fast hands
 
 
 
@@ -75,6 +77,8 @@ Arcane lore (shadow,cardinal) |
 Savvy                         | +5% int
 Sixth Sense                   | When danger is afoot, the GM may secretly roll a test on your Will Power. If successful, the GM may tell you that you have a bad feeling about your situation or that you feel like you’re being watched. This talent may enable to you to avoid being surprised when the rest of your allies succumb.
 Coolheaded                    | +5% wp
+Fast hands                    | +20% WS on touch spells
+
 
 
 ### Skills
@@ -94,16 +98,17 @@ Shrink                     | body is 1/2 size. -1W, -1M, -1d10 STR, +1d10 AG
 ### Advanced Skills
     Skill	             | Type 
 ---------------------------------|------------------------
-Academic knowledge (Magic)       | Int   
+Academic knowledge (Magic)       | Int
+Academic knowledge (Daemonology) | Int
 Channeling                       | WP   
 Magic sense                      | WP   
 Read/write                       | Int  
-Speak arcane                     | Int  
 Speak classic                    | Int  
 Common knowledge (talabheim)     | Int  
 Common knowledge (empire)        | Int  
 Speak reikspiel                  | Int  
 Speak Arcane Language (Daemonic) | Int
+Speak Arcane Language (Magic)    | Int
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
