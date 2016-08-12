@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-    0   | 3500
+    0   | 3700
     
 ### Usage Log
 - 100 - +1 WP
@@ -48,6 +48,8 @@ Current | Total
 - 100 - Strike to injure
 - 000 - Duellist -> Aspiring Champion (of chaos)
 - 100 - Coolheaded
+- 100 - +1 Attack
+- 100 - +5% Strength
 
 ### Personal Details
 - Age: 21
@@ -66,16 +68,18 @@ Current | Total
 #### Main
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  33 |  33 |  31 |  44 |  35 |  22 |  36 |  31 |
-Career   |20/25|20/10| 5/20|10/20|10/20|15/10|15/20| 0/10|
-Current  |  55 |  53 |  36 |  54 |  50 |  37 |  51 |  31 |
+Starting |  35 |  33 |  31 |  44 |  35 |  22 |  36 |  31 |
+Career   |20/25|20/10|10/20|10/20|10/20|15/10|15/20| 0/10|
+Bonuses  | +5% |     |     | +8% |+5%  |     |  +5%|     |
+Current  |  60 |  53 |  41 |  62 |  50 |  37 |  56 |  31 |
+
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 ---------|-----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
-Career   | 1/2 | 4/8 |     |     |     |     |     |     |
-Current  |  2  |  14 |  3  |  4  |  4  |  0  |  2  |  3  |
+Career   | 2/2 | 4/8 |     |     |     |     |     |     |
+Current  |  3  |  14 |  3  |  4  |  4  |  0  |  2  |  3  |
 Current damage : 7
   
 ### Talents
@@ -119,7 +123,7 @@ Intimidate                   | Str | Taken
 
 ### Insanities
  - Blindness of bliss
- - Glorious illusions
+ 
 
 ### Mutations
      Mutation               | Description
@@ -152,12 +156,14 @@ Rat Ogre cape & Mask                 |     |
 Sword                                |     | 
 Knife          	        	         |     |
 Poison                               |     |
-Sigmar prayer book (stolen   )       |     |   
-Pistol                               |     |   
+Sigmar prayer book (5)               |     |   
+Sigmar prayer book (from Otto)       |     |
+Pistol              (x2)             |     |   
 Pistol shots                         |  7  |   
 Bottles of spirit (0.5)              |  3  |
 Bottles with drug (0.5)              |  4  |
 Bottles with water from lake (0.5)   |  1  |
 
 ### Money
-Gold: 5+4
+Gold: 8
+IP = 3
