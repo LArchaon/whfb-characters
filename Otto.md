@@ -122,12 +122,13 @@ Speak Arcane Language (Magic)    | Int
 ### Trappings
     Name                   | Enc | Description
 ---------------------------|-----|---------
-Backpack      	     	     |     | ingredient
+Backpack      	     	   |     | ingredient
 A gossamer shroud x4       |     | ingredient
 The eyes of a newt x2      |     | ingredient
-A crystal prism	     	     |     | ingredient
+A crystal prism	     	   |     | ingredient
 Grimoire                   |     |
 Paper, ink, pen            |     |
+Good papers                | 15  |
 
 ### Familiar
 TODO
