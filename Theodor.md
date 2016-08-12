@@ -1,8 +1,8 @@
 ### Character
 - Name: Theodor
 - Race: Mutant
-- Current Career: Journeyman Wizard
-- Previous Career: Apprentice Wizard
+- Current Career: Necromancer
+- Previous Career: Apprentice Wizard -> Journeyman Wizard
 
 ### Experience Points
 Current | Total
@@ -39,6 +39,11 @@ Current | Total
 - 100 - Fel
 - 100 - Charm
 - 100 - Mighty missile
+- 100 - Fast hands
+- 100 - Academic knowledge (Necromancy)
+- 100 - Common knowledge (Estalia)
+- 100 - Carrer change - Necromancer
+
 
 
 ### Personal Details
