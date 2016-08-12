@@ -1,13 +1,13 @@
 ### Character
 - Name: Otto
 - Race: Mutant
-- Current Career: Maledictor
-- Previous Career: Apprentice Wizard -> Journeyman Wizard
+- Current Career: Doomweaver
+- Previous Career: Apprentice Wizard -> Journeyman Wizard -> Maledictor
 
 ### Experience Points
 Current | Total
 --------|------
-  200   | 2100
+        | 2100
     
 ### Usage Log
 - 100 - +1 Magic
@@ -31,6 +31,8 @@ Current | Total
 - 100 - Speak Arcane Language (Daemonic)
 - 100 - Academic knowledge (Daemonology) 
 - 100 - Fast hands
+- 100 - Career advance - Doomweaver
+- 100 - WP
 
 
 
@@ -53,9 +55,9 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  30 |  24 | 31  |  29 | 39  |  41 |  38 |  25 |
-Career   |     |     |     |     |  5  |  10 |  15 |  5  |
-Taken    |     |     |     |     |  5  |  10 |  15 |  5  |
-Current  |  30 |  24 | 31  |  29 |  44 |  51 |  53 |  30 |
+Career   |  5  |  5  |     |   5 | 10  |  20 |  25 |  10 |
+Taken    |     |     |     |     |  5  |  10 |  20 |  5  |
+Current  |  30 |  24 | 31  |  29 |  44 |  51 |  58 |  30 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
