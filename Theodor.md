@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  200   | 3200
+  200   | 3300
     
 ### Usage Log
 - 100 - +1 Magic
@@ -63,20 +63,31 @@ Current | Total
 #### Main
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  37 |  32 |  31 |  30 |  37 |  37 |  35 |  25 |
-Career   | 5/5 | 5/5 |     | 5/5 |10/10|20/20|25/25|10/10|
-Taken    |     |     |     |     |     |     |     |     |
+Starting |  37 |  32 |  31 |  30 |  37 |  42 |  35 |  30 |
+Career   |  5  |     |     |  10 |  10 | 15  |  20 |  5  |
+Taken    |  5  |  5  |     |  5  |  10 | 20  |  25 |  10 |
 Current  |  42 |  37 |  31 |  40 |  47 |  62 |  60 |  40 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  4  |  4  |  0  |  0  |  3  |
-Career   |     | 3/3 |     |     |     | 2/2 |     |     |
-Taken    |     |     |     |     |     |     |  5  |     |
+Career   |     |  3  |     |     |     |  2  |     |     |
+Taken    |     |  3  |     |     |     |  2  |  5  |     |
 Current  |  1  |  15 |  3  |  4  |  4  |  2  |  5  |  3  |
 
 current damage : 6
+
+### Left in career
+ - Drive or Ride
+ - Heal or Torture
+ - Trade (Apothecary or Embalmer)
+ - Menacing or Surgery
+ 
+### Optional in career
+ - Intimidate
+ - Prepare Poison
+ - Channeling++
   
 ### Talents
     Talent          |    Description
@@ -92,6 +103,7 @@ Very resilient      | +5 Toughness
 Dark lore (necroman)| 
 Dark magic          |
 Mighty missile      | +1 damage with magic missile spells
+Fast hands          | +20% WS on touch spells
 
 
 
