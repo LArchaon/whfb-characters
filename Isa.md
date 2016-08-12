@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  400   | 1200
+   100  | 1200
     
 ### Usage Log
 - 100 - BS
@@ -18,7 +18,9 @@ Current | Total
 - 100 - Int
 - 100 - wound
 - 100 - wound
-
+- 100 - Toughness
+- 100 - +1 Wound
+- 100 - set trap
 
 ### Personal Details
 - Age: 24
@@ -38,15 +40,15 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  25 |  39 |  38 |  23 |  39 |  26 |  29 |  30 |
-Career   |     |15/15|     | 0/5 |10/10| 5/5 |     |     |
-Current  |  25 |  54 |  38 |  23 |  49 |  31 |  29 |  30 |
+Career   |     |15/15|     | 5/5 |10/10| 5/5 |     |     |
+Current  |  25 |  54 |  38 |  28 |  49 |  31 |  29 |  30 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  2  |  4  |  0  |  0  |  3  |
-Career   |     | 2/3 |     |     |     |     |     |     |
-Current  |  1  |  13 |  3  |  2  |  4  |  0  |  0  |  3  |
+Career   |     | 3/3 |     |     |     |     |     |     |
+Current  |  1  |  14 |  3  |  2  |  4  |  0  |  0  |  3  |
   
 ### Talents
     Talent          |    Description
@@ -66,11 +68,13 @@ Search                       | Int |
 Swim                         | Str | 					
 Silent move                  | Agl | 		
 
+
 ### Advanced skills
     Skill                    | Type| Proficiency
 -----------------------------|-----|---------
 Follow trail                 | Int | Taken
 Secret signs (ranger)        | Int | Taken
+Set trap                     | Agl | 	
 
 ### Insanities
  - Restless fingers (steal everything!)
