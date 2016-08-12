@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-        | 1900
+  200   | 2100
     
 ### Usage Log
 - 100 - +1 Magic
@@ -31,6 +31,7 @@ Current | Total
 - 100 - Speak Arcane Language (Daemonic)
 - 100 - Academic knowledge (Daemonology) 
 - 100 - Fast hands
+
 
 
 
