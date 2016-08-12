@@ -80,7 +80,7 @@ Current  |  60 |  53 |  41 |  62 |  50 |  37 |  56 |  31 |
 Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
 Career   | 2/2 | 4/8 |     |     |     |     |     |     |
 Current  |  3  |  14 |  3  |  4  |  4  |  0  |  2  |  3  |
-Current damage : 7
+Current damage : 10
   
 ### Talents
     Talent          |    Description
