@@ -2,12 +2,12 @@
 - Name: Leopold
 - Race: Mutant
 - Current Career: Doomweaver
-- Previous Career: Maledictor
+- Previous Career: Thief -> Charlatan -> Demagogue -> Maledictor
 
 ### Experience Points
 Current | Total
 --------|------
-   50   | 4750
+   50   | 4950
 
 ### xp usage log
 - 100 - Agi
@@ -56,8 +56,10 @@ Current | Total
 - 100 - Academic Knowledge (Magic)
 - 100 - Savvy
 - 100 - Advancement:Doomweaver
-- 100 - Dark Lore(Tzeentch)
+- 100 - Dark Lore(Tzeentch Elemental)
 - 100 - +1 Magic
+- 100 - Dark Magic
+- 100 - Int
 
 ### Personal Details
 - Age: 25
@@ -76,15 +78,15 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  31 |  24 |  39 |  33 |  35 |  42 |  37 |  32 |
-Advance  |10/0 |10/0 | 5/0 |10/0 |15/5 |15/10|15/15| 30/5|
-Current  |  41 |  34 |  44 |  43 |  50 |  57 |  52 |  62 |
+Advance  |10/5 |10/5 | 5/0 |10/5 |15/10|20/20|15/25|30/10|
+Current  |  41 |  34 |  44 |  43 |  50 |  62 |  52 |  62 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  13 |  3  |  2  |  4  |  0  |  0  |  3  |
-Advance  | 1/0 | 4/2 |     |     |     | 2/2 |     |     |
-Current  |  2  |  17 |  4  |  3  |  4  |  2  |  1  |  2  |
+Advance  | 1/0 | 4/2 |     |     |     | 1/1 |     |     |
+Current  |  2  |  17 |  4  |  3  |  4  |  1  |  1  |  2  |
 
 ### Talents
     Talent          |    Description
@@ -101,7 +103,6 @@ Fast Hands          | +20% WS to Touch spells
 --------------------|---------------
 Menacing            | +10% Intimidate, Torture
 
-
 ### Skills (basic)
     Skill                  | Type| Proficiency
 ---------------------------|-----|---------
@@ -114,7 +115,6 @@ Gossip                     | Fel | Taken
 Perception                 | Int | Taken
 Search                     | Int | Taken
 Silent Move                | Int | Taken
-
 
 ### Skills
     Skill                  | Type| Proficiency
@@ -130,21 +130,17 @@ Sleight of Hand            | Wp  | Taken
 Magical Sense              | Wp  | Taken
 Channeling                 | Wp  | Taken
 
-
 ### Mutations
     Mutations              | Description
 ---------------------------|--------------
 Uncanny Resemblance        | facial features transform to resemble an important person
 Cloven Hooves              | Legs -> Hooves
 Polyps                     | 1 polyp on stomach
-Allergic to fur            | Sneezes
-
 
 ### Insanities
     Insanity               | Description
 ---------------------------|--------------
 Considers himself emperor  |
-
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
@@ -155,14 +151,12 @@ Crossbow |     |  ORD  |    4   |       |        |
 Bolts    |     |       |        |       |        |
 Pistol   |  25 |  GUN  |    4   | 8/16  | 2 full | Impact, unreliable
 
-
 ### Armour
    Type                 | Enc | Location Covered | AP | Special
 ------------------------|-----|------------------|----|----------------
 Chaos Armour            |     |        All       |  5 | Chaos armour
 
 Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, adapts to rewards/gifts/mutations
-
 
 ### Trappings
     Name                   | Enc | Description
@@ -171,14 +165,12 @@ Lockpicks                  |     |
 10 yards of rope           |     |
 Sack                       |     |
 Gunpowder x 6              |     |
-Common clothes x 1         |     |
 Best clothes x 1           |     |
 Bottles of alcohol (0.5)   |  3  |
 Bottles of Mandragora (0.5)|  2  |
-Bottles of warp (0.5)      |  4  |
-
+Bottles of warp (0.5)      |  2  |
 
 ### Money
-gold: 117
-silver: 55
+gold: 82
+silver: 54
 brass: 0
