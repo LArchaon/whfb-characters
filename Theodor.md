@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  200   | 3300
+        | 3300
     
 ### Usage Log
 - 100 - +1 Magic
@@ -43,6 +43,8 @@ Current | Total
 - 100 - Academic knowledge (Necromancy)
 - 100 - Common knowledge (Estalia)
 - 100 - Carrer change - Necromancer
+- 100 - Heal
+- 100 - Surgery
 
 
 
@@ -80,9 +82,7 @@ current damage : 6
 
 ### Left in career
  - Drive or Ride
- - Heal or Torture
  - Trade (Apothecary or Embalmer)
- - Menacing or Surgery
  
 ### Optional in career
  - Intimidate
@@ -104,6 +104,7 @@ Dark lore (necroman)|
 Dark magic          |
 Mighty missile      | +1 damage with magic missile spells
 Fast hands          | +20% WS on touch spells
+Surgery             | +10% On heal skill tests. If you are treating heavy wounded, heal 2 instead of 1. If this character is in danger of losing a limb from a critical hit, you also provide the patient with a +20% Toughness test to resist limb loss.
 
 
 
@@ -115,6 +116,7 @@ Perception                   | Int | Taken
 Search                       | Int | Taken
 Swim                         | Str | Taken
 Charm                        | Fel | Taken
+Heal                         | Int | Taken
 
 ### Mutations
     Mutations              | Description
