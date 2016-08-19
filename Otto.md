@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   500  | 2600
+   0    | 2600
     
 ### Usage Log
 - 100 - +1 Magic
@@ -33,6 +33,11 @@ Current | Total
 - 100 - Fast hands
 - 100 - Career advance - Doomweaver
 - 100 - WP
+- 100 - WP
+- 100 - Mighty Missile
+- 100 - Ride
+- 100 - Toughness
+- 100 - Lesser magic (skywalk)
 
 
 
@@ -56,8 +61,8 @@ Current | Total
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  30 |  24 | 31  |  29 | 39  |  41 |  38 |  25 |
 Career   |  5  |  5  |     |   5 | 10  |  20 |  25 |  10 |
-Taken    |     |     |     |     |  5  |  10 |  20 |  5  |
-Current  |  30 |  24 | 31  |  29 |  44 |  51 |  58 |  30 |
+Taken    |     |     |     |   5 |  5  |  10 |  25 |  5  |
+Current  |  30 |  24 | 31  |  34 |  44 |  51 |  63 |  30 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -71,17 +76,17 @@ current damage : 0
 
 ### Left in career
 - Intimidate
-- Ride or swim
 - Lesser Magic (any three)
-- Meditation or Mighty Missile
 - Stout-hearted (+10 vs fear/intimidate)
 
 ### Left in career optional
+- Meditation
 - Very Resilient
 - Academic Knowledge (any one)
 - Common Knowledge (any one)
 - Channelling++
 - Speak Language (any two)
+- Swim
   
 ### Talents
     Talent                    |    Description
@@ -95,6 +100,7 @@ Savvy                         | +5% int
 Sixth Sense                   | When danger is afoot, the GM may secretly roll a test on your Will Power. If successful, the GM may tell you that you have a bad feeling about your situation or that you feel like you’re being watched. This talent may enable to you to avoid being surprised when the rest of your allies succumb.
 Coolheaded                    | +5% wp
 Fast hands                    | +20% WS on touch spells
+Mighty Missile                | +1 damagd on magic missile
 
 
 
@@ -104,6 +110,7 @@ Fast hands                    | +20% WS on touch spells
 Gossip                       | Fel | Taken
 Perception                   | Int | Taken
 Search                       | Int | Taken
+Ride                         | Agl | Taken
 
 ### Mutations
     Mutations              | Description
@@ -201,3 +208,8 @@ Burn                       | 4   | half  | A bit of ash from a spent torch (+1) 
 Curse                      | 6   | full  | A fingernail from the victim (+1) |You place a curse on one chosen victim within 12 yards (6 squares). The victim is entitled to a Will Power Test to resist the spell’s effect. The curse is annoying and is in no way lethal nor causes any penalties aside from some mild discomfort and perhaps a minor penalty on Fellowship Tests (no more than –10% as the GM decides). Example curses include: warts, boils, change in hair colour, uncontrollable flatulence, smelly feet, nasty rash, and so on. Curse lasts for one day.
 Eyes of Clarity            | 6   | half  | The eye of a man hanged for three days (+1) |Your eyes glow with an unholy green light, enabling youto see as if you had the Night Vision Talent for one hour per pointof your Magic Characteristic. If you already have the Night VisionTalent, the range of your vision doubles. See Illumination in WFRP page 117 for details.
 Spew                       | 3   | half  |Thimble of Troll vomit (+1)|You force a target within 8 yards (4 squares) to spit up a little vomit unless he succeeds on a Toughness Test. The target takesa –10% penalty to all Fellowship Tests involving social situations for the next 1d10 rounds.
+
+### Spells (lesser magic)
+    Name                   | CN  | Time  | Inredient            | Description
+---------------------------|-----|-------|----------------------|--------------------------------------------
+Skywalk                    |  11 | full  | An eagle feather (+2)| You briefly walk on air, moving up to triple your Movement Characteristic and then returning to the ground. You can reach	a	height of up to 6 yards, allowing you to easily walk over ground obstacles. Skywalk is in effect while casting.
