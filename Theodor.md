@@ -83,6 +83,7 @@ current damage : 6
 ### Left in career
  - Drive or Ride
  - Trade (Apothecary or Embalmer)
+ - Lesser magic
  
 ### Optional in career
  - Intimidate
