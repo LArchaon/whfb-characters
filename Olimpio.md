@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-    0   | 3700
+    0   | 4100
     
 ### Usage Log
 - 100 - +1 WP
@@ -51,6 +51,13 @@ Current | Total
 - 100 - +1 Attack
 - 100 - +5% Strength
 
+- 100 - Command
+- 100 - +5% Str
+- 100 - +5% STR
+- 100 - +1 wound
+
+
+
 ### Personal Details
 - Age: 21
 - Gender: Male
@@ -69,7 +76,7 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  35 |  33 |  31 |  31 |  35 |  28 |  31 |  31 |
-Career   |20/25|20/10|10/20|10/20|10/20|15/10|15/20| 0/10|
+Career   |20/25|20/10|20/20|10/20|10/20|15/10|15/20| 0/10|
 Bonuses  | +5% |     |     |+8+5%|+5%  |  -6%|  +5%|     |
 Current  |  60 |  53 |  41 |  54 |  50 |  37 |  51 |  31 |
 
@@ -78,9 +85,9 @@ Current  |  60 |  53 |  41 |  54 |  50 |  37 |  51 |  31 |
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 ---------|-----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
-Career   | 2/2 | 4/8 |     |     |     |     |     |     |
-Current  |  3  |  14 |  3  |  4  |  4  |  0  |  2  |  3  |
-Current damage : 10
+Career   | 2/2 | 5/8 |     |     |     |     |     |     |
+Current  |  3  |  15 |  3  |  4  |  4  |  0  |  2  |  3  |
+Current damage : 12
   
 ### Talents
     Talent          |    Description
@@ -120,6 +127,7 @@ Dodge blow                   | Ag  | Taken
 Read/write                   | Int | Taken
 Speak language (Estalian)    | Int | Taken
 Intimidate                   | Str | Taken
+Command                      |     | Taken
 
 ### Insanities
  - Blindness of bliss
