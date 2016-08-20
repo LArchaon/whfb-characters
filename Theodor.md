@@ -45,6 +45,9 @@ Current | Total
 - 100 - Carrer change - Necromancer
 - 100 - Heal
 - 100 - Surgery
+- 100 - Channeling
+- 100 - Lesser magic (skywalk) 
+- 100 - Trade (Apothecary)
 
 
 
@@ -82,13 +85,10 @@ current damage : 6
 
 ### Left in career
  - Drive or Ride
- - Trade (Apothecary or Embalmer)
- - Lesser magic
  
 ### Optional in career
  - Intimidate
  - Prepare Poison
- - Channeling++
   
 ### Talents
     Talent          |    Description
@@ -129,7 +129,7 @@ Thick fur		   | +1 AP except face
 -----------------------------|------------------------
 Academic knowledge (Magic)   | Int
 Academic knowl. (Necromancy) | Int
-Channeling                   | WP   
+Channeling                   | WP +10% 
 Magic sense                  | WP   
 Read/write                   | Int  
 Speak arcane                 | Int  
@@ -137,6 +137,7 @@ Speak classic                | Int
 Common knowledge (empire)    | Int  
 Common knowledge (estalia)   | Int  
 Speak reikspiel              | Int  
+Trade (apothecary)           | Int
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
