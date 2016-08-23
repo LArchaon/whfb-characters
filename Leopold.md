@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   350  | 5250
+    50  | 5250
 
 ### xp usage log
 - 100 - Agi
@@ -60,6 +60,9 @@ Current | Total
 - 100 - +1 Magic
 - 100 - Dark Magic
 - 100 - Int
+- 100 - Will
+- 100 - Will
+- 100 - Aethyric Attunement
 
 ### Personal Details
 - Age: 25
@@ -78,8 +81,8 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  31 |  24 |  39 |  33 |  35 |  42 |  37 |  32 |
-Advance  |10/5 |10/5 | 5/0 |10/5 |15/10|20/20|15/25|30/10|
-Current  |  41 |  34 |  44 |  43 |  50 |  62 |  52 |  62 |
+Advance  |10/5 |10/5 | 5/0 |10/5 |15/10|20/20|25/25|30/10|
+Current  |  41 |  34 |  44 |  43 |  50 |  62 |  62 |  62 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -91,15 +94,16 @@ Current  |  2  |  17 |  4  |  3  |  4  |  1  |  2  |  2  |
 ### Talents
     Talent          |    Description
 --------------------|---------------
-Acute Hearing       | +20% Listening Perception
 Suave               | +5% Fellowship
 Savvy               | +5% Int
-Alley Cat           | +10% Urban Concealment
+Very Resilient      | +5% Toughness
+Acute Hearing       | +20% Perception(Listening)
+Alley Cat           | +10% Concealment(Urban)
 Super Numerate      | +10% Gambling, Navigation, +20% Evaluate
 Public Speaking     | Charm targets = Fellowship
 Master Orator       | Charm targets = Fellowship x10
-Very Resilient      | +5% Toughness
-Fast Hands          | +20% WS to Touch spells
+Fast Hands          | +20% Weapon Skill(Touch spells)
+Aethyric Attunement | +10% Channeling, Magic Sense
 --------------------|---------------
 Menacing            | +10% Intimidate, Torture
 
