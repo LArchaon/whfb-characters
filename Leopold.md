@@ -117,6 +117,7 @@ Dodge Blow                 | Agi | Taken
 Evaluate                   | Int | Taken
 Gossip                     | Fel | Taken
 Perception                 | Int | Taken
+Scale Sheer Surface        | Str | Taken
 Search                     | Int | Taken
 Silent Move                | Int | Taken
 
