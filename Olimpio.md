@@ -140,6 +140,7 @@ Piercing tongue             | 4 yards, SB damage, Ballistic
 Extra limb                  | +10 Agility/WS when using right hand
 Moronic                     | -6% intellect
 Blood substitution          | Vomit instead of blood, +8% toughness
+Magic resistance            | +20 WP against spells
 
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
