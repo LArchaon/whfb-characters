@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-    325 | 4425
+    025 | 4425
     
 ### Usage Log
 - 100 - +1 WP
@@ -17,7 +17,7 @@ Current | Total
 - 100 - +1 AG
 - 100 - +1 Attack
 - 100 - +1 STR
-- 100 - +1 Tougness
+- 100 - +1 Toughness
 - 100 - +1 Int
 - 100 - +1 Wound
 - 100 - +1 Wound
@@ -55,6 +55,11 @@ Current | Total
 - 100 - +5% Str
 - 100 - +5% STR
 - 100 - +1 wound
+- 
+- 100 - +5% Toughness
+- 100 - +5% Toughness
+- 100 - +5% WS
+
 
 
 
@@ -76,9 +81,9 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  35 |  33 |  31 |  31 |  35 |  28 |  31 |  31 |
-Career   |20/25|20/10|20/20|10/20|10/20|15/10|15/20| 0/10|
+Career   |25/25|20/10|20/20|20/20|10/20|15/10|15/20| 0/10|
 Bonuses  | +5% |     |     |+8+5%|+5%  |  -6%|  +5%|     |
-Current  |  60 |  53 |  51 |  54 |  50 |  37 |  51 |  31 |
+Current  |  65 |  53 |  51 |  64 |  50 |  37 |  51 |  31 |
 
 
 #### Secondary
