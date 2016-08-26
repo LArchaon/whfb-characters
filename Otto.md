@@ -80,7 +80,6 @@ current damage : 0
 
 ### Left in career
 - Intimidate
-- Lesser Magic (any 2)
 - Stout-hearted (+10 vs fear/intimidate)
 
 ### Left in career optional
