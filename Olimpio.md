@@ -160,6 +160,7 @@ Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, 
 Key shield                           |   1 |
 Knife                                |   2 |
 Helm                                 |     |
+Face                                 |     |
 Wooden mask                          |     |
 Wooden dolls  (bear, human, etc.)    |     |
 Perfume or cologne                   |     | 
