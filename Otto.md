@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   400  | 2600
+        | 3000
     
 ### Usage Log
 - 100 - +1 Magic
@@ -38,6 +38,10 @@ Current | Total
 - 100 - Ride
 - 100 - Toughness
 - 100 - Lesser magic (skywalk)
+- 100 - Int
+- 100 - Int
+- 100 - Lesser magic (Move)
+- 100 - Lesser magic (Dispel)
 
 
 
@@ -61,8 +65,8 @@ Current | Total
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  30 |  24 | 31  |  29 | 39  |  41 |  38 |  25 |
 Career   |  5  |  5  |     |   5 | 10  |  20 |  25 |  10 |
-Taken    |     |     |     |   5 |  5  |  10 |  25 |  5  |
-Current  |  30 |  24 | 31  |  34 |  44 |  51 |  63 |  30 |
+Taken    |     |     |     |   5 |  5  |  20 |  25 |  5  |
+Current  |  30 |  24 | 31  |  34 |  44 |  61 |  63 |  30 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
@@ -213,3 +217,6 @@ Spew                       | 3   | half  |Thimble of Troll vomit (+1)|You force 
     Name                   | CN  | Time  | Inredient            | Description
 ---------------------------|-----|-------|----------------------|--------------------------------------------
 Skywalk                    |  11 | full  | An eagle feather (+2)| You briefly walk on air, moving up to triple your Movement Characteristic and then returning to the ground. You can reach	a	height of up to 6 yards, allowing you to easily walk over ground obstacles. Skywalk is in effect while casting.
+Dispel                     |  13 | full  | A	small silver hammer (+2) | You cause	a	spell within 12 yards (6 squares) of you to end prematurely. This can be used to dispel any ongoing spell but not ritual magic. You can immediately end the target spell with	a	successful Channelling Test, but you suffer	a	–10% penalty per point of the original caster’s Magic Characteristic. If you	were	trying to dispel	a	blessed weapon spell cast by a	Wizard with Magic 2, for example, your Channelling Test would be at –20%. Dispel has no effect on summoned Daemons or re-animated Undead.
+Move                       |  4  | half  | A	small	fan	(+1)   | You	use	magical	force	to	move	and	manipulate light objects.	You	can	move	any	unsecured	light	item	(Encumbrance	 of	10	or	less)	up	to	12	yards	(6	squares).	You	can	also	open	 or	close	any	unlocked	door	or	knock	over	items	with	an	 Encumbrance	of	50	or	less	if	they are	within	24	yards	(12	squares)	of	you.	
+
