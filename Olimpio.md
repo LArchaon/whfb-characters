@@ -157,6 +157,7 @@ Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, 
 ### Trappings
     Name                             | Enc | Description
 -------------------------------------|-----|---------
+Halberd                              |     |
 Key shield                           |   1 |
 Knife                                |   2 |
 Helm                                 |     |
