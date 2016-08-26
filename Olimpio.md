@@ -156,6 +156,8 @@ Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, 
 ### Trappings
     Name                             | Enc | Description
 -------------------------------------|-----|---------
+Knife x2                             |     |
+Helm                                 |     |
 Wooden mask                          |     |
 Wooden dolls  (bear, human, etc.)    |     |
 Perfume or cologne                   |     | 
@@ -173,5 +175,5 @@ Bottles with drug (0.5)              |  4  |
 Bottles with water from lake (0.5)   |  1  |
 
 ### Money
-Gold: 8
+Gold := 8 Silver := 30
 IP = 3
