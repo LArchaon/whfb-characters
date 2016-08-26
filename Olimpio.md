@@ -156,7 +156,8 @@ Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, 
 ### Trappings
     Name                             | Enc | Description
 -------------------------------------|-----|---------
-Knife x2                             |     |
+Key shield                           |   1 |
+Knife                                |   2 |
 Helm                                 |     |
 Wooden mask                          |     |
 Wooden dolls  (bear, human, etc.)    |     |
