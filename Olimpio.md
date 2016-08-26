@@ -87,7 +87,7 @@ Current  |  60 |  53 |  51 |  54 |  50 |  37 |  51 |  31 |
 Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
 Career   | 2/2 | 5/8 |     |     |     |     |     |     |
 Current  |  3  |  15 |  3  |  4  |  4  |  0  |  2  |  3  |
-Current damage : 12
+Current hp : 6
   
 ### Talents
     Talent          |    Description
