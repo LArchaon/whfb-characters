@@ -36,7 +36,6 @@ Current | Total
 - 100 - +5 WP
 - 100 - +5 WP
 - 100 - +5 WP
-
 - 100 - +1 Wound
 - 100 - +1 Wound
 - 100 - +5 BS
