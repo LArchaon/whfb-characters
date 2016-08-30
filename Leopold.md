@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   300  | 5500
+   0    | 5500
 
 ### xp usage log
 - 100 - Agi
@@ -63,6 +63,9 @@ Current | Total
 - 100 - Will
 - 100 - Will
 - 100 - Aethyric Attunement
+- 100 - Ride
+- 100 - Intimidate
+- 100 - Mighty Missile
 
 ### Personal Details
 - Age: 25
@@ -104,6 +107,7 @@ Public Speaking     | Charm targets = Fellowship
 Master Orator       | Charm targets = Fellowship x10
 Fast Hands          | +20% Weapon Skill(Touch spells)
 Aethyric Attunement | +10% Channeling, Magic Sense
+Mighty Missile      | +1 bonus on damage rolls with magic missile spells.
 --------------------|---------------
 Menacing            | +10% Intimidate, Torture
 
@@ -116,7 +120,9 @@ Disguise                   | Fel | Taken
 Dodge Blow                 | Agi | Taken
 Evaluate                   | Int | Taken
 Gossip                     | Fel | Taken
+Intimidate                 | Fel | Taken
 Perception                 | Int | Taken
+Ride                       | Agi | Taken
 Scale Sheer Surface        | Str | Taken
 Search                     | Int | Taken
 Silent Move                | Int | Taken
@@ -176,7 +182,7 @@ Bottles of Mandragora (0.5)|  2  |
 Bottles of warp (0.5)      |  2  |
 
 ### Money
-gold: 82
+gold: 132
 silver: 54
 brass: 0
 
