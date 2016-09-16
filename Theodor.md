@@ -170,7 +170,7 @@ Gloves                     |     |
 Key of augusts house       |     |
 
 ### Money
-Gold: 14
+Gold: 24
 Silver: 9
 
 ### Spells (petty arcane)
