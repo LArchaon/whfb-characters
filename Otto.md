@@ -55,7 +55,7 @@ Current | Total
 - Weight: 65
 - Height: 180
 - Number of Siblings: 0
-- Distinguishing Mark: Strange Coloured Eye, no small finger on left arm
+- Distinguishing Mark: Strange Coloured Eye, no small finger on left hand
 - Sign: 
 
 ### Character Profile
