@@ -76,7 +76,7 @@ Career   |     |  3  |     |     |     |  2  |     |     |
 Taken    |     |  2  |     |     |     |  2  |     |     |
 Current  |  1  |  11 |     |     |  3  |  2  |  1  |  3  |
 
-current damage : 0
+current damage : 1
 
 ### Left in career
 - Intimidate
