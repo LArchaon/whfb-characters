@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-        | 3000
+        | 3500
     
 ### Usage Log
 - 100 - +1 Magic
@@ -42,6 +42,11 @@ Current | Total
 - 100 - Int
 - 100 - Lesser magic (Move)
 - 100 - Lesser magic (Dispel)
+- 100 - 1 wound
+- 100 - Agl
+- 100 - Fel
+- 100 - WS
+- 100 - BS
 
 
 
@@ -65,16 +70,16 @@ Current | Total
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  30 |  24 | 31  |  29 | 39  |  41 |  38 |  25 |
 Career   |  5  |  5  |     |   5 | 10  |  20 |  25 |  10 |
-Taken    |     |     |     |   5 |  5  |  20 |  25 |  5  |
-Current  |  30 |  24 | 31  |  34 |  44 |  61 |  63 |  30 |
+Taken    |  5  |  5  |     |   5 |  10 |  20 |  25 |  10 |
+Current  |  35 |  29 | 31  |  34 |  49 |  61 |  63 |  35 |
 
 #### Secondary
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  9  |     |     |  3  |  0  |  1  |  3  |
 Career   |     |  3  |     |     |     |  2  |     |     |
-Taken    |     |  2  |     |     |     |  2  |     |     |
-Current  |  1  |  11 |     |     |  3  |  2  |  1  |  3  |
+Taken    |     |  3  |     |     |     |  2  |     |     |
+Current  |  1  |  12 |     |     |  3  |  2  |  1  |  3  |
 
 current damage : 2
 
