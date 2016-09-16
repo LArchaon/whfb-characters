@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   250  | 3850
+    50  | 3850
     
 ### Usage Log
 - 100 - +1 Magic
@@ -48,6 +48,8 @@ Current | Total
 - 100 - Channeling
 - 100 - Lesser magic (skywalk) 
 - 100 - Trade (Apothecary)
+- 100 - Ride
+- 100 - Toughness
 
 
 
@@ -70,7 +72,7 @@ Current | Total
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  37 |  32 |  31 |  30 |  37 |  42 |  35 |  30 |
 Career   |  5  |     |     |  10 |  10 | 15  |  20 |  5  |
-Taken    |  5  |  5  |     |  5  |  10 | 20  |  25 |  10 |
+Taken    |  5  |  5  |     |  10 |  10 | 20  |  25 |  10 |
 Current  |  42 |  37 |  31 |  40 |  47 |  62 |  60 |  40 |
 
 #### Secondary
@@ -84,7 +86,6 @@ Current  |  1  |  15 |  3  |  4  |  4  |  2  |  1  |  3  |
 current damage : 6
 
 ### Left in career
- - Drive or Ride
  
 ### Optional in career
  - Intimidate
@@ -118,6 +119,7 @@ Search                       | Int | Taken
 Swim                         | Str | Taken
 Charm                        | Fel | Taken
 Heal                         | Int | Taken
+Ride                         | Agl | Taken
 
 ### Mutations
     Mutations              | Description
