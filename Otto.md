@@ -162,6 +162,7 @@ TODO
 
 ### Money
 Gold: 18
+Copper 30
 
 # Spells
 ### Spells (shadow)
