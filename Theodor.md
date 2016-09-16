@@ -1,13 +1,13 @@
 ### Character
 - Name: Theodor
 - Race: Mutant
-- Current Career: Necromancer
-- Previous Career: Apprentice Wizard -> Journeyman Wizard
+- Current Career: Mortifactor
+- Previous Career: Apprentice Wizard -> Journeyman Wizard -> Necromancer
 
 ### Experience Points
 Current | Total
 --------|------
-    50  | 3850
+   250  | 4050
     
 ### Usage Log
 - 100 - +1 Magic
@@ -50,6 +50,8 @@ Current | Total
 - 100 - Trade (Apothecary)
 - 100 - Ride
 - 100 - Toughness
+- 100 - Career advance - Mortifactor
+- 100 - + 1 Magic
 
 
 
@@ -79,9 +81,9 @@ Current  |  42 |  37 |  31 |  40 |  47 |  62 |  60 |  40 |
          |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  11 |  3  |  4  |  4  |  0  |  0  |  3  |
-Career   |     |  3  |     |     |     |  2  |     |     |
-Taken    |     |  3  |     |     |     |  2  |  1  |     |
-Current  |  1  |  15 |  3  |  4  |  4  |  2  |  1  |  3  |
+Career   |     |  3  |     |     |     |  3  |     |     |
+Taken    |     |  3  |     |     |     |  3  |  1  |     |
+Current  |  1  |  15 |  3  |  4  |  4  |  3  |  1  |  3  |
 
 current damage : 6
 
