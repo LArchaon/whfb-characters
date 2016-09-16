@@ -161,7 +161,7 @@ Good papers                | 15  |
 TODO
 
 ### Money
-Gold: 8
+Gold: 18
 
 # Spells
 ### Spells (shadow)
