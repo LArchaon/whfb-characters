@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  500   | 6000
+  100   | 6000
 
 ### xp usage log
 - 100 - Agi
@@ -48,7 +48,7 @@ Current | Total
 -   0 - Advancement:Maledictor
 - 100 - +1 Magic
 - 100 - Magical Sense
-- 100 - Speak language (Daemonic)
+- 100 - Speak Arcane Language (Daemonic)
 - 100 - Petty magic(Chaos)
 - 100 - Channeling
 - 100 - Fast Hands
@@ -66,6 +66,11 @@ Current | Total
 - 100 - Ride
 - 100 - Intimidate
 - 100 - Mighty Missile
+- 100 - Academic Knowledge (Daemonology) 
+- 100 - Speak Arcane Language (Magick)
+- 100 - Speak Language (Dark Tongue)
+- 100 - Stout-hearted
+
 
 ### Personal Details
 - Age: 25
@@ -108,6 +113,7 @@ Master Orator       | Charm targets = Fellowship x10
 Fast Hands          | +20% Weapon Skill(Touch spells)
 Aethyric Attunement | +10% Channeling, Magic Sense
 Mighty Missile      | +1 bonus on damage rolls with magic missile spells.
+Stout-hearted       | +10% resist Fear, Terror and Intimidate
 --------------------|---------------
 Menacing            | +10% Intimidate, Torture
 
@@ -133,9 +139,12 @@ Silent Move                | Int | Taken
 Read/Write                 | Int | Taken
 Pick lock                  | Agi | Taken
 Secret Signs (Thief)       | Int | Taken
-Speak language (Reik.)     | Int | Taken
-Speak language (Daemonic)  | Int | Taken
+Speak Language (Reik.)     | Int | Taken
+Speak Language (Dark Tong) | Int | Taken
+Speak Arcane Lang(Daemon)  | Int | Taken
+Speak Arcane Lang(Magick)  | Int | Taken
 Academic Knowledge (Magic) | Int | Taken
+Academic Knowledge (Daemon)| Int | Taken
 Comm. Knowledge (Emp)      | Int | Taken
 Sleight of Hand            | Wp  | Taken
 Magical Sense              | Wp  | Taken
