@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-    225 | 4625
+    25  | 4625
     
 ### Usage Log
 - 100 - +1 WP
@@ -160,6 +160,11 @@ Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, 
 ### Trappings
     Name                             | Enc | Description
 -------------------------------------|-----|---------
+
+
+### Trappings LOST
+    Name                             | Enc | Description
+-------------------------------------|-----|---------
 Halberd                              |     |
 Key shield                           |   1 |
 Knife                                |   2 |
@@ -184,5 +189,8 @@ Bottles with water from lake (0.5)   |  1  |
 Minotaur hide, ring, sword
 
 ### Money
+Gold: 0
+
+### Money LOST
 Gold := 8 Silver := 30
-IP = 3
+
