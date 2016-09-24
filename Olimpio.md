@@ -89,7 +89,7 @@ Current  |  69 |  53 |  61 |  64 |  55 |  37 |  51 |  31 |
 ---------|-----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
 Career   | 2/2 | 5/8 |     |     |     |     |     |     |
-Current  |  3  |  15 |  3  |  4  |  4  |  0  |  3  |  2  |
+Current  |  3  |  15 |  3  |  4  |  4  |  0  |  3  |  1  |
 Current hp : -3
   
 ### Talents
@@ -186,7 +186,7 @@ Bottles of spirit (0.5)              |  3  |
 Bottles with drug (0.5)              |  4  |
 Bottles with water from lake (0.5)   |  1  |
 
-Minotaur hide, ring, sword
+Ring
 
 ### Money
 Gold: 0
