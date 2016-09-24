@@ -146,9 +146,13 @@ Blood substitution          | Vomit instead of blood, +8% toughness
 Magic resistance            | +20 WP against spells
 
 ### Weapons
-   Name  | Enc | Group | Damage | Range | Reload | Qualities
--------- |-----|-------|--------|-------|--------|---------------------------------
-   Sword |  50 |       |   SB   |       |        |
+   Name   | Enc | Group | Damage | Range | Reload | Qualities
+----------|-----|-------|--------|-------|--------|---------------------------------
+   Axe    |  50 |       |   SB   |       |        |
+ Daggerx4 |     |       |   SB-1 |
+ Firearm  |     |       |   4    |
+bulletsx7 |     |       | 
+Food(4day)|     |       |        
   
 ### Armour
    Type     | Enc | Location Covered | AP | Special
@@ -189,7 +193,7 @@ Bottles with water from lake (0.5)   |  1  |
 Ring
 
 ### Money
-Gold: 0
+Gold: 150
 
 ### Money LOST
 Gold := 8 Silver := 30
