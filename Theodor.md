@@ -146,7 +146,7 @@ Trade (apothecary)           | Int
 ### Weapons
    Name  | Enc | Group | Damage | Range | Reload | Qualities
 -------- |-----|-------|--------|-------|--------|----------
-   Sword |  50 |       |   SB   |       |        | 
+   
   
 ### Armour
    Type   | Enc | Location Covered | AP |
