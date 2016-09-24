@@ -192,7 +192,7 @@ Bottles of Mandragora (0.5)|  2  |
 Bottles of warp (0.5)      |  2  |
 
 ### Money
-gold: 132
+gold: 102
 silver: 54
 brass: 0
 
