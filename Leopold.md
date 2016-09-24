@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-  100   | 6000
+  0     | 6000
 
 ### xp usage log
 - 100 - Agi
@@ -70,6 +70,7 @@ Current | Total
 - 100 - Speak Arcane Language (Magick)
 - 100 - Speak Language (Dark Tongue)
 - 100 - Stout-hearted
+- 100 - Lesser Magic (Skywalk)
 
 
 ### Personal Details
@@ -218,3 +219,8 @@ Burn                       |  4 |  half | A bit of ash from a spent torch (+1) |
 Curse                      |  6 |  full | A fingernail from the victim (+1) | You place a curse on one chosen victim within 12 yards (6 squares). The victim is entitled to a Will Power Test to resist the spell’s effect. The curse is annoying and is in no way lethal nor causes any penalties aside from some mild discomfort and perhaps a minor penalty on Fellowship Tests (no more than –10% as the GM decides). Example curses include: warts, boils, change in hair colour, uncontrollable flatulence, smelly feet, nasty rash, and so on. Curse lasts for one day.
 Eyes of Clarity            |  6 |  half | The eye of a man hanged for three days (+1) | Your eyes glow with an unholy green light, enabling youto see as if you had the Night Vision Talent for one hour per pointof your Magic Characteristic. If you already have the Night VisionTalent, the range of your vision doubles. See Illumination in WFRP page 117 for details.
 Spew                       |  3 |  half | Thimble of Troll vomit (+1) | You force a target within 8 yards (4 squares) to spit up a little vomit unless he succeeds on a Toughness Test. The target takesa –10% penalty to all Fellowship Tests involving social situations for the next 1d10 rounds.
+
+### Spells (Lesser magic)
+    Name                   | CN |  Time | Ingredient           | Description
+---------------------------|----|-------|----------------------|--------------------------------------------
+Skywalk                    | 11 | full  | An eagle feather (+2)| You briefly walk on air, moving up to triple your Movement Characteristic and then returning to the ground. You can reach	a	height of up to 6 yards, allowing you to easily walk over ground obstacles. Skywalk is in effect while casting.
