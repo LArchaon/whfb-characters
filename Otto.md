@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-        | 3500
+   200  | 3700
     
 ### Usage Log
 - 100 - +1 Magic
