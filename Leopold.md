@@ -157,6 +157,7 @@ Channeling                 | Wp  | Taken
 Uncanny Resemblance        | facial features transform to resemble an important person
 Cloven Hooves              | Legs -> Hooves
 Polyps                     | 1 polyp on stomach
+Spiked Tail                | Thick reptilian tail that ends in a knobbly spiked ball. Pummelling Quality and deals SB Damage.
 
 ### Insanities
     Insanity               | Description
@@ -171,6 +172,7 @@ Sword(G) |  50 |  ORD  |   SB   |       |        |  Good
 Crossbow |     |  ORD  |    4   |       |        |
 Bolts    |     |       |        |       |        |
 Pistol   |  25 |  GUN  |    4   | 8/16  | 2 full | Impact, unreliable
+Spk.Tail |     |  MUT  |   SB   |       |        | Pummelling
 
 ### Armour
    Type                 | Enc | Location Covered | AP | Special
