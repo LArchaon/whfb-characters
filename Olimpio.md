@@ -55,6 +55,8 @@ Current | Total
 - 100 - +5% Toughness
 - 100 - +5% Toughness
 - 100 - +5% WS
+- 100 - Speak language (daemonic)
+- 100 - +5% Ag
 
 
 
@@ -77,9 +79,9 @@ Current | Total
          |  WS |  BS |  S  |  T  |  AG | Int |  WP | Fel |
 -------- | ----|-----|-----|-----|-----|-----|-----|-----|
 Starting |  35 |  33 |  31 |  31 |  35 |  28 |  31 |  31 |
-Career   |25/25|20/10|20/20|20/20|10/20|15/10|15/20| 0/10|
+Career   |25/25|20/10|20/20|20/20|15/20|15/10|15/20| 0/10|
 Bonuses  | +5% |     |     |+8+5%|+5%  |  -6%|  +5%|     |
-Current  |  65 |  53 |  51 |  64 |  50 |  37 |  51 |  31 |
+Current  |  65 |  53 |  51 |  64 |  55 |  37 |  51 |  31 |
 
 
 #### Secondary
@@ -169,7 +171,7 @@ Perfume or cologne                   |     |
 Best craft clothes                   |     | 
 Rat Ogre cape & Mask                 |     |
 Sword                                |     | 
-Knife          	        	         |     |
+Knife          	                     |     |
 Poison                               |     |
 Sigmar prayer book (5)               |     |   
 Sigmar prayer book (from Otto)       |     |
@@ -178,6 +180,8 @@ Pistol shots                         |  7  |
 Bottles of spirit (0.5)              |  3  |
 Bottles with drug (0.5)              |  4  |
 Bottles with water from lake (0.5)   |  1  |
+
+Minotaur hide, ring, sword
 
 ### Money
 Gold := 8 Silver := 30
