@@ -7,7 +7,7 @@
 ### Experience Points
 Current | Total
 --------|------
-   200  | 3700
+        | 3700
     
 ### Usage Log
 - 100 - +1 Magic
@@ -47,6 +47,9 @@ Current | Total
 - 100 - Fel
 - 100 - WS
 - 100 - BS
+- Intimidate
+- Stout-hearted (+10 vs fear/intimidate)
+
 
 
 
@@ -84,8 +87,6 @@ Current  |  1  |  12 |     |     |  3  |  2  |  1  |  3  |
 current damage : 0
 
 ### Left in career
-- Intimidate
-- Stout-hearted (+10 vs fear/intimidate)
 
 ### Left in career optional
 - Meditation
@@ -109,6 +110,7 @@ Sixth Sense                   | When danger is afoot, the GM may secretly roll a
 Coolheaded                    | +5% wp
 Fast hands                    | +20% WS on touch spells
 Mighty Missile                | +1 damagd on magic missile
+Stout-hearted                 | +10 WP vs fear/intimidate
 
 
 
@@ -119,6 +121,7 @@ Gossip                       | Fel | Taken
 Perception                   | Int | Taken
 Search                       | Int | Taken
 Ride                         | Agl | Taken
+Intimidate                   | Str | Taken
 
 ### Mutations
     Mutations              | Description
