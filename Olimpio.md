@@ -5,9 +5,9 @@
 - Previous Career: Duellist <-- Estalian Diestro
 
 ### Experience Points
-Current | Total
---------|--------
-    25  | 4625
+|Current | Total  |
+|--------|--------|
+|    25  | 4625   |
     
 ### Usage Log
 - 100 - +1 WP
