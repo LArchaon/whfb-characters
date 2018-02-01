@@ -111,8 +111,8 @@ Strike to injure    | +1 critical value
 Coolheaded          | +5% to starting WillPower
 
 ### Skills
-    Skill                    | Type| Proficiency
------------------------------|-----|-------------
+    Skill                    |Type |Proficiency
+-----------------------------|-----|-------------------------------------------
 Gossip                       | Fel | Taken
 Charm                        | Fel | Taken
 Perception                   | Int | Taken
@@ -123,7 +123,7 @@ Perception                   | Int | Taken
 
 ### Advanced skills
     Skill                    | Type| Proficiency
------------------------------|-----|---------
+-----------------------------|-----|---------------------------------------
 Academic knowledge (Science) | Int | Taken
 Common knowledge  (Estalia)  | Int | Taken
 Dodge blow                   | Ag  | Taken
@@ -138,7 +138,7 @@ Command                      |     | Taken
 
 ### Mutations
      Mutation               | Description
-----------------------------|--------------
+----------------------------|--------------------------------------------
 Piercing tongue             | 4 yards, SB damage, Ballistic
 Extra limb                  | +10 Agility/WS when using right hand
 Moronic                     | -6% intellect
