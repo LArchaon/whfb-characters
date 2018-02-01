@@ -85,81 +85,81 @@
 
 
 #### Secondary
-         |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
----------|-----|-----|-----|-----|-----|-----|-----|-----|
-Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
-Career   | 2/2 | 5/8 |     |     |     |     |     |     |
-Current  |  3  |  15 |  3  |  4  |  4  |  0  |  3  |  1  |
+|         |  A  |  W  |  SB |  TB |  M  | Mag |  IP |  FP |
+|---------|-----|-----|-----|-----|-----|-----|-----|-----|
+|Starting |  1  |  10 |  3  |  3  |  4  |  0  |  0  |  3  |
+|Career   | 2/2 | 5/8 |     |     |     |     |     |     |
+|Current  |  3  |  15 |  3  |  4  |  4  |  0  |  3  |  1  |
 Current hp : -3
   
 ### Talents
-    Talent          |    Description
---------------------|---------------
-Warrior bourne      | +5% WS
-Lightning reflexes  | +5% Agility
-Swashbuckler        | Jump/leap as halfaction. Distance of leaps +1yard
-Strike mighty blow  | +1 Bonus damage on melee attacks
-Quick draw          | Ready action as free action once per round
-Spec.weap(Fencing)  |
-Spec.weap(gunpowd)  |
-Intimidate          |
-Disarm              |
-Master gunner       | -half action reload for black powder weapons
-Sharpshooter        | When aiming, +20 instead of +10 to BS
- Mighty shot        |  +1 missile dmg
-Strike to injure    | +1 critical value
-Coolheaded          | +5% to starting WillPower
+|    Talent          |    Description
+|--------------------|---------------
+|Warrior bourne      | +5% WS
+|Lightning reflexes  | +5% Agility
+|Swashbuckler        | Jump/leap as halfaction. Distance of leaps +1yard
+|Strike mighty blow  | +1 Bonus damage on melee attacks
+|Quick draw          | Ready action as free action once per round
+|Spec.weap(Fencing)  |
+|Spec.weap(gunpowd)  |
+|Intimidate          |
+|Disarm              |
+|Master gunner       | -half action reload for black powder weapons
+|Sharpshooter        | When aiming, +20 instead of +10 to BS
+|Mighty shot        |  +1 missile dmg
+|Strike to injure    | +1 critical value
+|Coolheaded          | +5% to starting WillPower
 
 ### Skills
-    Skill                    |Type |Proficiency
------------------------------|-----|-------------------------------------------
-Gossip                       | Fel | Taken
-Charm                        | Fel | Taken
-Perception                   | Int | Taken
-                             |     | 
-                             |     | 
+|    Skill                    |Type |Proficiency
+|-----------------------------|-----|-------------------------------------------
+|Gossip                       | Fel | Taken
+|Charm                        | Fel | Taken
+|Perception                   | Int | Taken
+|                             |     | 
+|                             |     | 
 
 
 
 ### Advanced skills
-    Skill                    | Type| Proficiency
------------------------------|-----|---------------------------------------
-Academic knowledge (Science) | Int | Taken
-Common knowledge  (Estalia)  | Int | Taken
-Dodge blow                   | Ag  | Taken
-Read/write                   | Int | Taken
-Speak language (Estalian)    | Int | Taken
-Intimidate                   | Str | Taken
-Command                      |     | Taken
+|    Skill                    | Type| Proficiency
+|-----------------------------|-----|---------------------------------------
+|Academic knowledge (Science) | Int | Taken
+|Common knowledge  (Estalia)  | Int | Taken
+|Dodge blow                   | Ag  | Taken
+|Read/write                   | Int | Taken
+|Speak language (Estalian)    | Int | Taken
+|Intimidate                   | Str | Taken
+|Command                      |     | Taken
 
 ### Insanities
  - Blindness of bliss
  
 
 ### Mutations
-     Mutation               | Description
-----------------------------|--------------------------------------------
-Piercing tongue             | 4 yards, SB damage, Ballistic
-Extra limb                  | +10 Agility/WS when using right hand
-Moronic                     | -6% intellect
-Blood substitution          | Vomit instead of blood, +8% toughness
-Magic resistance            | +20 WP against spells
+|     Mutation               | Description
+|----------------------------|--------------------------------------------
+|Piercing tongue             | 4 yards, SB damage, Ballistic
+|Extra limb                  | +10 Agility/WS when using right hand
+|Moronic                     | -6% intellect
+|Blood substitution          | Vomit instead of blood, +8% toughness
+|Magic resistance            | +20 WP against spells
 
 ### Weapons
-   Name   | Enc | Group | Damage | Range | Reload | Qualities
-----------|-----|-------|--------|-------|--------|---------------------------------
-   Axe    |  50 |       |   SB   |       |        |
- Daggerx4 |     |       |   SB-1 |
- Firearm  |     |       |   4    |
-bulletsx7 |     |       | 
-Food(4day)|     |       |        
+|   Name   | Enc | Group | Damage | Range | Reload | Qualities
+|----------|-----|-------|--------|-------|--------|---------------------------------
+|   Axe    |  50 |       |   SB   |       |        |
+| Daggerx4 |     |       |   SB-1 |
+| Firearm  |     |       |   4    |
+|bulletsx7 |     |       | 
+|Food(4day)|     |       |        
   
 ### Armour
-   Type     | Enc | Location Covered | AP | Special
-------------|-----|------------------|----|---------------
-Chaos armour|     | All except head  | 5  | Chaos armour
-
-Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, adapts to rewards/gifts/mutations
+|   Type     | Enc | Location Covered | AP | Special
+|------------|-----|------------------|----|---------------
+|Chaos armour|     | All except head  | 5  | Chaos armour
+|
+haos armour : +5% Toughness, no penalties for heavy, can cast without penalty, adapts to rewards/gifts/mutations
 
 ### Trappings
     Name                             | Enc | Description
@@ -169,28 +169,28 @@ Chaos armour : +5% Toughness, no penalties for heavy, can cast without penalty, 
 
 
 ### Trappings LOST
-    Name                             | Enc | Description
--------------------------------------|-----|---------
-Halberd                              |     |
-Key shield                           |   1 |
-Knife                                |   2 |
-Helm                                 |     |
-Face                                 |     |
-Wooden mask                          |     |
-Wooden dolls  (bear, human, etc.)    |     |
-Perfume or cologne                   |     | 
-Best craft clothes                   |     | 
-Rat Ogre cape & Mask                 |     |
-Sword                                |     | 
-Knife          	                     |     |
-Poison                               |     |
-Sigmar prayer book (5)               |     |   
-Sigmar prayer book (from Otto)       |     |
-Pistol              (x2)             |     |   
-Pistol shots                         |  7  |   
-Bottles of spirit (0.5)              |  3  |
-Bottles with drug (0.5)              |  4  |
-Bottles with water from lake (0.5)   |  1  |
+|    Name                             | Enc | Description
+|-------------------------------------|-----|---------
+|Halberd                              |     |
+|Key shield                           |   1 |
+|Knife                                |   2 |
+|Helm                                 |     |
+|Face                                 |     |
+|Wooden mask                          |     |
+|Wooden dolls  (bear, human, etc.)    |     |
+|Perfume or cologne                   |     | 
+|Best craft clothes                   |     | 
+|Rat Ogre cape & Mask                 |     |
+|Sword                                |     | 
+|Knife          	                     |     |
+|Poison                               |     |
+|Sigmar prayer book (5)               |     |   
+|Sigmar prayer book (from Otto)       |     |
+|Pistol              (x2)             |     |   
+|Pistol shots                         |  7  |   
+|Bottles of spirit (0.5)              |  3  |
+|Bottles with drug (0.5)              |  4  |
+|Bottles with water from lake (0.5)   |  1  |
 
 Ring
 
