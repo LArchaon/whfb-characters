@@ -6,7 +6,7 @@
 
 ### Experience Points
 Current | Total
---------|------
+--------|--------
     25  | 4625
     
 ### Usage Log
